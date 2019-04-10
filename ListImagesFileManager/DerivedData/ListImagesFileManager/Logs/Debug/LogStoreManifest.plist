@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>A5AE5E26-8782-4DF1-A74B-CE060A4C24A1</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A5AE5E26-8782-4DF1-A74B-CE060A4C24A1.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>ListImagesFileManager project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ListImagesFileManager</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug ListImagesFileManager</string>
+			<key>timeStartedRecording</key>
+			<real>576473480.48375201</real>
+			<key>timeStoppedRecording</key>
+			<real>576474172.088498</real>
+			<key>title</key>
+			<string>Debug ListImagesFileManager</string>
+			<key>uniqueIdentifier</key>
+			<string>A5AE5E26-8782-4DF1-A74B-CE060A4C24A1</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -33,6 +33,7 @@ class DetailedViewController: UIViewController {
         // Do any additional setup after loading the view.
         title = "\(selectedPicture) of \(totalPicture)"
         navigationItem.largeTitleDisplayMode = .never
+        navigationItem.rightBarButtonItem = UIBarButtonItem(barButtonSystemItem: .action, target: self, action: #selector(addButtonTapped))
     }
 
     override func viewWillAppear(_ animated: Bool) {
@@ -43,6 +44,17 @@ class DetailedViewController: UIViewController {
     override func viewWillDisappear(_ animated: Bool) {
         super.viewWillDisappear(animated)
         navigationController?.hidesBarsOnTap = false
+    }
+    
+    @objc func addButtonTapped() {
+        guard let image = image.image?.jpegData(compressionQuality: 0.8) else {
+            print("No image found")
+            return
+        }
+        
+        let vc = UIActivityViewController(activityItems: [image], applicationActivities: [])
+        vc.popoverPresentationController?.barButtonItem = navigationItem.rightBarButtonItem
+        present(vc, animated: true, completion: nil)
     }
     /*
     // MARK: - Navigation

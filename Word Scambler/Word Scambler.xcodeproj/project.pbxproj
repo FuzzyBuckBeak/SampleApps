@@ -1,0 +1,602 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		D96B4A35225E71B80069498B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D96B4A34225E71B80069498B /* AppDelegate.swift */; };
+		D96B4A37225E71B80069498B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D96B4A36225E71B80069498B /* ViewController.swift */; };
+		D96B4A3A225E71B80069498B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D96B4A38225E71B80069498B /* Main.storyboard */; };
+		D96B4A3D225E71B80069498B /* Word_Scambler.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D96B4A3B225E71B80069498B /* Word_Scambler.xcdatamodeld */; };
+		D96B4A3F225E71B90069498B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D96B4A3E225E71B90069498B /* Assets.xcassets */; };
+		D96B4A42225E71B90069498B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D96B4A40225E71B90069498B /* LaunchScreen.storyboard */; };
+		D96B4A4D225E71B90069498B /* Word_ScamblerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D96B4A4C225E71B90069498B /* Word_ScamblerTests.swift */; };
+		D96B4A58225E71B90069498B /* Word_ScamblerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D96B4A57225E71B90069498B /* Word_ScamblerUITests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		D96B4A49225E71B90069498B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D96B4A29225E71B80069498B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D96B4A30225E71B80069498B;
+			remoteInfo = "Word Scambler";
+		};
+		D96B4A54225E71B90069498B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D96B4A29225E71B80069498B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D96B4A30225E71B80069498B;
+			remoteInfo = "Word Scambler";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		D96B4A31225E71B80069498B /* Word Scambler.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Word Scambler.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D96B4A34225E71B80069498B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		D96B4A36225E71B80069498B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		D96B4A39225E71B80069498B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		D96B4A3C225E71B80069498B /* Word_Scambler.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Word_Scambler.xcdatamodel; sourceTree = "<group>"; };
+		D96B4A3E225E71B90069498B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		D96B4A41225E71B90069498B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		D96B4A43225E71B90069498B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D96B4A48225E71B90069498B /* Word ScamblerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Word ScamblerTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D96B4A4C225E71B90069498B /* Word_ScamblerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Word_ScamblerTests.swift; sourceTree = "<group>"; };
+		D96B4A4E225E71B90069498B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D96B4A53225E71B90069498B /* Word ScamblerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Word ScamblerUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D96B4A57225E71B90069498B /* Word_ScamblerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Word_ScamblerUITests.swift; sourceTree = "<group>"; };
+		D96B4A59225E71B90069498B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D96B4A2E225E71B80069498B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D96B4A45225E71B90069498B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D96B4A50225E71B90069498B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		D96B4A28225E71B80069498B = {
+			isa = PBXGroup;
+			children = (
+				D96B4A33225E71B80069498B /* Word Scambler */,
+				D96B4A4B225E71B90069498B /* Word ScamblerTests */,
+				D96B4A56225E71B90069498B /* Word ScamblerUITests */,
+				D96B4A32225E71B80069498B /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		D96B4A32225E71B80069498B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D96B4A31225E71B80069498B /* Word Scambler.app */,
+				D96B4A48225E71B90069498B /* Word ScamblerTests.xctest */,
+				D96B4A53225E71B90069498B /* Word ScamblerUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		D96B4A33225E71B80069498B /* Word Scambler */ = {
+			isa = PBXGroup;
+			children = (
+				D96B4A34225E71B80069498B /* AppDelegate.swift */,
+				D96B4A36225E71B80069498B /* ViewController.swift */,
+				D96B4A38225E71B80069498B /* Main.storyboard */,
+				D96B4A3E225E71B90069498B /* Assets.xcassets */,
+				D96B4A40225E71B90069498B /* LaunchScreen.storyboard */,
+				D96B4A43225E71B90069498B /* Info.plist */,
+				D96B4A3B225E71B80069498B /* Word_Scambler.xcdatamodeld */,
+			);
+			path = "Word Scambler";
+			sourceTree = "<group>";
+		};
+		D96B4A4B225E71B90069498B /* Word ScamblerTests */ = {
+			isa = PBXGroup;
+			children = (
+				D96B4A4C225E71B90069498B /* Word_ScamblerTests.swift */,
+				D96B4A4E225E71B90069498B /* Info.plist */,
+			);
+			path = "Word ScamblerTests";
+			sourceTree = "<group>";
+		};
+		D96B4A56225E71B90069498B /* Word ScamblerUITests */ = {
+			isa = PBXGroup;
+			children = (
+				D96B4A57225E71B90069498B /* Word_ScamblerUITests.swift */,
+				D96B4A59225E71B90069498B /* Info.plist */,
+			);
+			path = "Word ScamblerUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		D96B4A30225E71B80069498B /* Word Scambler */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D96B4A5C225E71B90069498B /* Build configuration list for PBXNativeTarget "Word Scambler" */;
+			buildPhases = (
+				D96B4A2D225E71B80069498B /* Sources */,
+				D96B4A2E225E71B80069498B /* Frameworks */,
+				D96B4A2F225E71B80069498B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Word Scambler";
+			productName = "Word Scambler";
+			productReference = D96B4A31225E71B80069498B /* Word Scambler.app */;
+			productType = "com.apple.product-type.application";
+		};
+		D96B4A47225E71B90069498B /* Word ScamblerTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D96B4A5F225E71B90069498B /* Build configuration list for PBXNativeTarget "Word ScamblerTests" */;
+			buildPhases = (
+				D96B4A44225E71B90069498B /* Sources */,
+				D96B4A45225E71B90069498B /* Frameworks */,
+				D96B4A46225E71B90069498B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D96B4A4A225E71B90069498B /* PBXTargetDependency */,
+			);
+			name = "Word ScamblerTests";
+			productName = "Word ScamblerTests";
+			productReference = D96B4A48225E71B90069498B /* Word ScamblerTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		D96B4A52225E71B90069498B /* Word ScamblerUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D96B4A62225E71B90069498B /* Build configuration list for PBXNativeTarget "Word ScamblerUITests" */;
+			buildPhases = (
+				D96B4A4F225E71B90069498B /* Sources */,
+				D96B4A50225E71B90069498B /* Frameworks */,
+				D96B4A51225E71B90069498B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D96B4A55225E71B90069498B /* PBXTargetDependency */,
+			);
+			name = "Word ScamblerUITests";
+			productName = "Word ScamblerUITests";
+			productReference = D96B4A53225E71B90069498B /* Word ScamblerUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D96B4A29225E71B80069498B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1010;
+				LastUpgradeCheck = 1010;
+				ORGANIZATIONNAME = FuzzyBuckbeak;
+				TargetAttributes = {
+					D96B4A30225E71B80069498B = {
+						CreatedOnToolsVersion = 10.1;
+					};
+					D96B4A47225E71B90069498B = {
+						CreatedOnToolsVersion = 10.1;
+						TestTargetID = D96B4A30225E71B80069498B;
+					};
+					D96B4A52225E71B90069498B = {
+						CreatedOnToolsVersion = 10.1;
+						TestTargetID = D96B4A30225E71B80069498B;
+					};
+				};
+			};
+			buildConfigurationList = D96B4A2C225E71B80069498B /* Build configuration list for PBXProject "Word Scambler" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = D96B4A28225E71B80069498B;
+			productRefGroup = D96B4A32225E71B80069498B /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D96B4A30225E71B80069498B /* Word Scambler */,
+				D96B4A47225E71B90069498B /* Word ScamblerTests */,
+				D96B4A52225E71B90069498B /* Word ScamblerUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		D96B4A2F225E71B80069498B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D96B4A42225E71B90069498B /* LaunchScreen.storyboard in Resources */,
+				D96B4A3F225E71B90069498B /* Assets.xcassets in Resources */,
+				D96B4A3A225E71B80069498B /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D96B4A46225E71B90069498B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D96B4A51225E71B90069498B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		D96B4A2D225E71B80069498B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D96B4A37225E71B80069498B /* ViewController.swift in Sources */,
+				D96B4A35225E71B80069498B /* AppDelegate.swift in Sources */,
+				D96B4A3D225E71B80069498B /* Word_Scambler.xcdatamodeld in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D96B4A44225E71B90069498B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D96B4A4D225E71B90069498B /* Word_ScamblerTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D96B4A4F225E71B90069498B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D96B4A58225E71B90069498B /* Word_ScamblerUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		D96B4A4A225E71B90069498B /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D96B4A30225E71B80069498B /* Word Scambler */;
+			targetProxy = D96B4A49225E71B90069498B /* PBXContainerItemProxy */;
+		};
+		D96B4A55225E71B90069498B /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D96B4A30225E71B80069498B /* Word Scambler */;
+			targetProxy = D96B4A54225E71B90069498B /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		D96B4A38225E71B80069498B /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				D96B4A39225E71B80069498B /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		D96B4A40225E71B90069498B /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				D96B4A41225E71B90069498B /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		D96B4A5A225E71B90069498B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		D96B4A5B225E71B90069498B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		D96B4A5D225E71B90069498B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "Word Scambler/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "LetsCrackThatInterview.com.Word-Scambler";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		D96B4A5E225E71B90069498B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "Word Scambler/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "LetsCrackThatInterview.com.Word-Scambler";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		D96B4A60225E71B90069498B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "Word ScamblerTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "LetsCrackThatInterview.com.Word-ScamblerTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Word Scambler.app/Word Scambler";
+			};
+			name = Debug;
+		};
+		D96B4A61225E71B90069498B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "Word ScamblerTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "LetsCrackThatInterview.com.Word-ScamblerTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Word Scambler.app/Word Scambler";
+			};
+			name = Release;
+		};
+		D96B4A63225E71B90069498B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "Word ScamblerUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "LetsCrackThatInterview.com.Word-ScamblerUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Word Scambler";
+			};
+			name = Debug;
+		};
+		D96B4A64225E71B90069498B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "Word ScamblerUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "LetsCrackThatInterview.com.Word-ScamblerUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Word Scambler";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D96B4A2C225E71B80069498B /* Build configuration list for PBXProject "Word Scambler" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D96B4A5A225E71B90069498B /* Debug */,
+				D96B4A5B225E71B90069498B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D96B4A5C225E71B90069498B /* Build configuration list for PBXNativeTarget "Word Scambler" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D96B4A5D225E71B90069498B /* Debug */,
+				D96B4A5E225E71B90069498B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D96B4A5F225E71B90069498B /* Build configuration list for PBXNativeTarget "Word ScamblerTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D96B4A60225E71B90069498B /* Debug */,
+				D96B4A61225E71B90069498B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D96B4A62225E71B90069498B /* Build configuration list for PBXNativeTarget "Word ScamblerUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D96B4A63225E71B90069498B /* Debug */,
+				D96B4A64225E71B90069498B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		D96B4A3B225E71B80069498B /* Word_Scambler.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				D96B4A3C225E71B80069498B /* Word_Scambler.xcdatamodel */,
+			);
+			currentVersion = D96B4A3C225E71B80069498B /* Word_Scambler.xcdatamodel */;
+			path = Word_Scambler.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = D96B4A29225E71B80069498B /* Project object */;
+}

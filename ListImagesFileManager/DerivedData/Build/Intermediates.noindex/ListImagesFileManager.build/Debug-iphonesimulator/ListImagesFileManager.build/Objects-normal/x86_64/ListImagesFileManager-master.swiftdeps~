@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "4b074852c72e0929d20c302091bffd29"
+build_time: [1554780678, 942410000]
+inputs:
+  "/Users/apo/Desktop/PersonalProjects/Learning/SampleApps/ListImagesFileManager/ListImagesFileManager/ViewController.swift": [1554780322, 0]
+  "/Users/apo/Desktop/PersonalProjects/Learning/SampleApps/ListImagesFileManager/ListImagesFileManager/AppDelegate.swift": [1554780145, 0]
+  "/Users/apo/Desktop/PersonalProjects/Learning/SampleApps/ListImagesFileManager/ListImagesFileManager/DetailedViewController.swift": [1554780678, 0]

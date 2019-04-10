@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>19410DA1-A25B-4C22-85FC-64E9EC84D560</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>19410DA1-A25B-4C22-85FC-64E9EC84D560.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>EasyBrowser project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>EasyBrowser</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build EasyBrowser</string>
+			<key>timeStartedRecording</key>
+			<real>576614663.42605102</real>
+			<key>timeStoppedRecording</key>
+			<real>576614663.89139402</real>
+			<key>title</key>
+			<string>Build EasyBrowser</string>
+			<key>uniqueIdentifier</key>
+			<string>19410DA1-A25B-4C22-85FC-64E9EC84D560</string>
+		</dict>
+		<key>CC6D30AD-C453-481F-B15F-D26B2F5FC7D8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CC6D30AD-C453-481F-B15F-D26B2F5FC7D8.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>EasyBrowser project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>EasyBrowser</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build EasyBrowser</string>
+			<key>timeStartedRecording</key>
+			<real>576480494.12484205</real>
+			<key>timeStoppedRecording</key>
+			<real>576480494.81583202</real>
+			<key>title</key>
+			<string>Build EasyBrowser</string>
+			<key>uniqueIdentifier</key>
+			<string>CC6D30AD-C453-481F-B15F-D26B2F5FC7D8</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

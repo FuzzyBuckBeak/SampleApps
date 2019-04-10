@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>E804BFC2-35EE-4849-9730-81489083FC91</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E804BFC2-35EE-4849-9730-81489083FC91.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>ListImagesFileManager project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ListImagesFileManager</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ListImagesFileManager</string>
+			<key>timeStartedRecording</key>
+			<real>576473478.86739695</real>
+			<key>timeStoppedRecording</key>
+			<real>576473480.57527399</real>
+			<key>title</key>
+			<string>Build ListImagesFileManager</string>
+			<key>uniqueIdentifier</key>
+			<string>E804BFC2-35EE-4849-9730-81489083FC91</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

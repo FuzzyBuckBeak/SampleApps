@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>A0B55300-2F06-42B3-B05C-56D6994AC79A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>A0B55300-2F06-42B3-B05C-56D6994AC79A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>signature</key>
+			<string>EasyBrowser-dtsjomymmxsotfgivyehseiucjxb</string>
+			<key>timeStartedRecording</key>
+			<real>576614663.49147606</real>
+			<key>timeStoppedRecording</key>
+			<real>576614663.784132</real>
+			<key>title</key>
+			<string>Build target EasyBrowser</string>
+			<key>uniqueIdentifier</key>
+			<string>A0B55300-2F06-42B3-B05C-56D6994AC79A</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>
