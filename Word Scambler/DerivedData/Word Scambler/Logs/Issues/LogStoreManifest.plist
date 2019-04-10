@@ -5,7 +5,31 @@
 	<key>logFormatVersion</key>
 	<integer>9</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>84F4F5A2-F869-460C-A028-9E17AD77DD7C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>84F4F5A2-F869-460C-A028-9E17AD77DD7C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>signature</key>
+			<string>Word_Scambler-hccthnpifzbahdfrmcdceocetlvj</string>
+			<key>timeStartedRecording</key>
+			<real>576624221.04104495</real>
+			<key>timeStoppedRecording</key>
+			<real>576624228.13033402</real>
+			<key>title</key>
+			<string>Build target Word Scambler</string>
+			<key>uniqueIdentifier</key>
+			<string>84F4F5A2-F869-460C-A028-9E17AD77DD7C</string>
+		</dict>
+	</dict>
 	<key>preserveOldLogs</key>
 	<true/>
 </dict>

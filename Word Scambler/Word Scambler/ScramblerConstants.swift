@@ -7,15 +7,12 @@
 //
 
 import Foundation
+
 class ScramblerConstants {
-    static let misspelledMessage = ""
-    static let misspelledTitle = ""
-    static let duplicateMessage = ""
-    static let duplicateTitle = ""
-    static let invalidMessage = "You can't spell that word from given word)"
-    static let invalidTitle = "Word not possible"
-    static let startWordMessage = ""
-    static let startWordTitle = ""
-    static let tooShortMessage = ""
-    static let tooShortTitle = ""
+    
+    static let misspelledError: (title: String, message: String) = ("", "")
+    static let duplicateError: (title: String, message: String) = ("Word used already", "Be more original!")
+    static let tooShortError: (title: String, message: String) = ("Word Too Short", "Require minimum 3 letter word")
+    static let invalidError: (title: String, message: String)  = ("Word not possible", "You can't spell that word from given word)")
+    static let startWordError: (title: String, message: String) = ("Start Word", "You can't use given word as answer!")
 }

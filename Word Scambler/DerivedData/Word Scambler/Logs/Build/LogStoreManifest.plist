@@ -5,6 +5,65 @@
 	<key>logFormatVersion</key>
 	<integer>9</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>9E92E382-03BC-43B2-9E11-7D8AAC277E3E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9E92E382-03BC-43B2-9E11-7D8AAC277E3E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Word Scambler project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Word Scambler</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Word Scambler</string>
+			<key>timeStartedRecording</key>
+			<real>576624087.55982101</real>
+			<key>timeStoppedRecording</key>
+			<real>576624087.65017903</real>
+			<key>title</key>
+			<string>Build Word Scambler</string>
+			<key>uniqueIdentifier</key>
+			<string>9E92E382-03BC-43B2-9E11-7D8AAC277E3E</string>
+		</dict>
+		<key>F69EEC94-FCE5-4B71-ADA7-7AD99014D5DA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F69EEC94-FCE5-4B71-ADA7-7AD99014D5DA.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Word Scambler project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Word Scambler</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Word Scambler</string>
+			<key>timeStartedRecording</key>
+			<real>576624220.68074501</real>
+			<key>timeStoppedRecording</key>
+			<real>576624228.33764303</real>
+			<key>title</key>
+			<string>Build Word Scambler</string>
+			<key>uniqueIdentifier</key>
+			<string>F69EEC94-FCE5-4B71-ADA7-7AD99014D5DA</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

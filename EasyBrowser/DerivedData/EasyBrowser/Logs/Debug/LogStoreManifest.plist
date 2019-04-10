@@ -35,35 +35,6 @@
 			<key>uniqueIdentifier</key>
 			<string>1213FEB4-1042-4087-9764-2E806DB9CDD6</string>
 		</dict>
-		<key>C1BB7880-1B54-4A24-8340-3EB3D495E505</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>C1BB7880-1B54-4A24-8340-3EB3D495E505.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>S</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>EasyBrowser project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>EasyBrowser</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Debug EasyBrowser</string>
-			<key>timeStartedRecording</key>
-			<real>576480494.45162404</real>
-			<key>timeStoppedRecording</key>
-			<real>576485241.47596502</real>
-			<key>title</key>
-			<string>Debug EasyBrowser</string>
-			<key>uniqueIdentifier</key>
-			<string>C1BB7880-1B54-4A24-8340-3EB3D495E505</string>
-		</dict>
 	</dict>
 </dict>
 </plist>

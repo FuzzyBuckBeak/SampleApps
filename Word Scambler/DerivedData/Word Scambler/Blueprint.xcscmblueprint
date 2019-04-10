@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "21B5F57214A640627C211D6642E7C6870D837C51",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "21B5F57214A640627C211D6642E7C6870D837C51" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F333F5F1-46ED-4C34-9669-17E39D44D497",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "21B5F57214A640627C211D6642E7C6870D837C51" : "SampleApps\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Word Scambler",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Word Scambler\/Word Scambler.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/FuzzyBuckBeak\/SampleApps.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "21B5F57214A640627C211D6642E7C6870D837C51"
+    }
+  ]
+}

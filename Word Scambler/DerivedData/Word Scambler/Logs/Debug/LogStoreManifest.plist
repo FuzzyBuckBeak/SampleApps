@@ -5,6 +5,65 @@
 	<key>logFormatVersion</key>
 	<integer>9</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>4C98C29E-72A1-4F07-8CEC-5686E01AACD5</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>4C98C29E-72A1-4F07-8CEC-5686E01AACD5.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Word Scambler project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Word Scambler</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Word Scambler</string>
+			<key>timeStartedRecording</key>
+			<real>576624087.59581494</real>
+			<key>timeStoppedRecording</key>
+			<real>576624101.85769296</real>
+			<key>title</key>
+			<string>Debug Word Scambler</string>
+			<key>uniqueIdentifier</key>
+			<string>4C98C29E-72A1-4F07-8CEC-5686E01AACD5</string>
+		</dict>
+		<key>92328A55-DF43-4C9C-B727-8C2DD7216A84</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>92328A55-DF43-4C9C-B727-8C2DD7216A84.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Word Scambler project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Word Scambler</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Word Scambler</string>
+			<key>timeStartedRecording</key>
+			<real>576624228.14902794</real>
+			<key>timeStoppedRecording</key>
+			<real>576624809.82866001</real>
+			<key>title</key>
+			<string>Debug Word Scambler</string>
+			<key>uniqueIdentifier</key>
+			<string>92328A55-DF43-4C9C-B727-8C2DD7216A84</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

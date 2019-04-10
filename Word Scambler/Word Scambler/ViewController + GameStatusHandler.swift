@@ -18,11 +18,7 @@ enum GameStatus {
     case valid
 }
 
-
-
 extension ViewController {
-    
-    
     func handleError(_ gameStatus: GameStatus) {
         var errorTitle: String
         var errorMessage: String
@@ -43,13 +39,13 @@ extension ViewController {
     }
     
     func isPossible(word: String) -> GameStatus {
-        guard var tempWord = title?.lowercased() else { return .invalid(Properties.invalidTitle, Properties.InvalidMessage) }
+        guard var tempWord = title?.lowercased() else { return .invalid(ScramblerConstants.invalidError.title, ScramblerConstants.invalidError.message) }
         
         for letter in word {
             if let position = tempWord.firstIndex(of: letter) {
                 tempWord.remove(at: position)
             } else {
-                return .invalid("Word not possible","You can't spell that word from \(String(describing: title))")
+                return .invalid(ScramblerConstants.invalidError.title, ScramblerConstants.invalidError.message)
             }
         }
         
@@ -57,15 +53,15 @@ extension ViewController {
     }
     
     func isOriginal(word: String) -> GameStatus {
-        return usedWords.contains(word) ? .duplicate("Word used already", "Be more original!") : .valid
+        return usedWords.contains(word) ? .duplicate(ScramblerConstants.duplicateError.title, ScramblerConstants.duplicateError.message) : .valid
     }
     
     func isReal(word: String) -> GameStatus {
-        if word.utf16.count < 3 { return .tooShort("Word Too Short", "Require minimum 3 letter word") }
-        if word == title { return .tooShort("Start Word", "You can't use given word as answer!")  }
+        if word.utf16.count < 3 { return .tooShort(ScramblerConstants.tooShortError.title, ScramblerConstants.tooShortError.message) }
+        if word == title { return  .startWord(ScramblerConstants.startWordError.title, ScramblerConstants.startWordError.message)  }
         let checker = UITextChecker()
         let range = NSRange(location: 0, length: word.utf16.count)
         let value = checker.rangeOfMisspelledWord(in: word, range: range, startingAt: 0, wrap: false, language: "en").location
-        return value == NSNotFound ? .valid : .invalid("Word not possible","You can't spell that word from \(String(describing: title))")
+        return value == NSNotFound ? .valid : .invalid(ScramblerConstants.invalidError.title, ScramblerConstants.invalidError.message)
     }
 }
