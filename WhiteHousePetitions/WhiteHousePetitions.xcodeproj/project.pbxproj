@@ -15,6 +15,10 @@
 		D9D7CD69225E9CA200324F92 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D9D7CD67225E9CA200324F92 /* LaunchScreen.storyboard */; };
 		D9D7CD74225E9CA200324F92 /* WhiteHousePetitionsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9D7CD73225E9CA200324F92 /* WhiteHousePetitionsTests.swift */; };
 		D9D7CD7F225E9CA200324F92 /* WhiteHousePetitionsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9D7CD7E225E9CA200324F92 /* WhiteHousePetitionsUITests.swift */; };
+		D9D7CD8D225E9EE400324F92 /* Petitions.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9D7CD8C225E9EE400324F92 /* Petitions.swift */; };
+		D9D7CD8F225EA11100324F92 /* APIManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9D7CD8E225EA11100324F92 /* APIManager.swift */; };
+		D9D7CD91225EA27E00324F92 /* ViewController + Delegates.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9D7CD90225EA27E00324F92 /* ViewController + Delegates.swift */; };
+		D9D7CD93225EA60400324F92 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9D7CD92225EA60400324F92 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +53,10 @@
 		D9D7CD7A225E9CA200324F92 /* WhiteHousePetitionsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WhiteHousePetitionsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D9D7CD7E225E9CA200324F92 /* WhiteHousePetitionsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhiteHousePetitionsUITests.swift; sourceTree = "<group>"; };
 		D9D7CD80225E9CA200324F92 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D9D7CD8C225E9EE400324F92 /* Petitions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Petitions.swift; sourceTree = "<group>"; };
+		D9D7CD8E225EA11100324F92 /* APIManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIManager.swift; sourceTree = "<group>"; };
+		D9D7CD90225EA27E00324F92 /* ViewController + Delegates.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ViewController + Delegates.swift"; sourceTree = "<group>"; };
+		D9D7CD92225EA60400324F92 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,7 +108,11 @@
 			isa = PBXGroup;
 			children = (
 				D9D7CD5B225E9CA100324F92 /* AppDelegate.swift */,
+				D9D7CD8E225EA11100324F92 /* APIManager.swift */,
 				D9D7CD5D225E9CA100324F92 /* ViewController.swift */,
+				D9D7CD90225EA27E00324F92 /* ViewController + Delegates.swift */,
+				D9D7CD92225EA60400324F92 /* DetailViewController.swift */,
+				D9D7CD8C225E9EE400324F92 /* Petitions.swift */,
 				D9D7CD5F225E9CA100324F92 /* Main.storyboard */,
 				D9D7CD65225E9CA200324F92 /* Assets.xcassets */,
 				D9D7CD67225E9CA200324F92 /* LaunchScreen.storyboard */,
@@ -259,9 +271,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D9D7CD91225EA27E00324F92 /* ViewController + Delegates.swift in Sources */,
 				D9D7CD64225E9CA100324F92 /* WhiteHousePetitions.xcdatamodeld in Sources */,
+				D9D7CD8D225E9EE400324F92 /* Petitions.swift in Sources */,
+				D9D7CD8F225EA11100324F92 /* APIManager.swift in Sources */,
 				D9D7CD5E225E9CA100324F92 /* ViewController.swift in Sources */,
 				D9D7CD5C225E9CA100324F92 /* AppDelegate.swift in Sources */,
+				D9D7CD93225EA60400324F92 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
