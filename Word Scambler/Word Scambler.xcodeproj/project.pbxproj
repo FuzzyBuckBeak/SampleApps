@@ -13,8 +13,6 @@
 		D96B4A3D225E71B80069498B /* Word_Scambler.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D96B4A3B225E71B80069498B /* Word_Scambler.xcdatamodeld */; };
 		D96B4A3F225E71B90069498B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D96B4A3E225E71B90069498B /* Assets.xcassets */; };
 		D96B4A42225E71B90069498B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D96B4A40225E71B90069498B /* LaunchScreen.storyboard */; };
-		D96B4A4D225E71B90069498B /* Word_ScamblerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D96B4A4C225E71B90069498B /* Word_ScamblerTests.swift */; };
-		D96B4A58225E71B90069498B /* Word_ScamblerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D96B4A57225E71B90069498B /* Word_ScamblerUITests.swift */; };
 		D96B4A66225E72710069498B /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = D96B4A65225E72710069498B /* start.txt */; };
 		D96B4A68225E82710069498B /* ViewController + GameStatusHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = D96B4A67225E82710069498B /* ViewController + GameStatusHandler.swift */; };
 		D96B4A6A225E91E20069498B /* ScramblerConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = D96B4A69225E91E20069498B /* ScramblerConstants.swift */; };
@@ -47,11 +45,7 @@
 		D96B4A41225E71B90069498B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D96B4A43225E71B90069498B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D96B4A48225E71B90069498B /* Word ScamblerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Word ScamblerTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		D96B4A4C225E71B90069498B /* Word_ScamblerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Word_ScamblerTests.swift; sourceTree = "<group>"; };
-		D96B4A4E225E71B90069498B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D96B4A53225E71B90069498B /* Word ScamblerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Word ScamblerUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		D96B4A57225E71B90069498B /* Word_ScamblerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Word_ScamblerUITests.swift; sourceTree = "<group>"; };
-		D96B4A59225E71B90069498B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D96B4A65225E72710069498B /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 		D96B4A67225E82710069498B /* ViewController + GameStatusHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ViewController + GameStatusHandler.swift"; sourceTree = "<group>"; };
 		D96B4A69225E91E20069498B /* ScramblerConstants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScramblerConstants.swift; sourceTree = "<group>"; };
@@ -86,8 +80,6 @@
 			isa = PBXGroup;
 			children = (
 				D96B4A33225E71B80069498B /* Word Scambler */,
-				D96B4A4B225E71B90069498B /* Word ScamblerTests */,
-				D96B4A56225E71B90069498B /* Word ScamblerUITests */,
 				D96B4A32225E71B80069498B /* Products */,
 			);
 			sourceTree = "<group>";
@@ -117,24 +109,6 @@
 				D96B4A3B225E71B80069498B /* Word_Scambler.xcdatamodeld */,
 			);
 			path = "Word Scambler";
-			sourceTree = "<group>";
-		};
-		D96B4A4B225E71B90069498B /* Word ScamblerTests */ = {
-			isa = PBXGroup;
-			children = (
-				D96B4A4C225E71B90069498B /* Word_ScamblerTests.swift */,
-				D96B4A4E225E71B90069498B /* Info.plist */,
-			);
-			path = "Word ScamblerTests";
-			sourceTree = "<group>";
-		};
-		D96B4A56225E71B90069498B /* Word ScamblerUITests */ = {
-			isa = PBXGroup;
-			children = (
-				D96B4A57225E71B90069498B /* Word_ScamblerUITests.swift */,
-				D96B4A59225E71B90069498B /* Info.plist */,
-			);
-			path = "Word ScamblerUITests";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -281,7 +255,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D96B4A4D225E71B90069498B /* Word_ScamblerTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -289,7 +262,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D96B4A58225E71B90069498B /* Word_ScamblerUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
