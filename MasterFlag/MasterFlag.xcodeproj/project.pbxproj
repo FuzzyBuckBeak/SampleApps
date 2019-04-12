@@ -14,6 +14,14 @@
 		D9863D7E225FEBC000F7C722 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D9863D7C225FEBC000F7C722 /* LaunchScreen.storyboard */; };
 		D9863D89225FEBC000F7C722 /* MasterFlagTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9863D88225FEBC000F7C722 /* MasterFlagTests.swift */; };
 		D9863D94225FEBC000F7C722 /* MasterFlagUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9863D93225FEBC000F7C722 /* MasterFlagUITests.swift */; };
+		D9863DA2225FF17000F7C722 /* countries.txt in Resources */ = {isa = PBXBuildFile; fileRef = D9863DA1225FF17000F7C722 /* countries.txt */; };
+		D9863DA42260000700F7C722 /* ExtensionUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9863DA32260000700F7C722 /* ExtensionUIView.swift */; };
+		D9863DA622600FA600F7C722 /* GameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9863DA522600FA600F7C722 /* GameView.swift */; };
+		D9863DA8226016D500F7C722 /* GameViewController + ActionHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9863DA7226016D500F7C722 /* GameViewController + ActionHandler.swift */; };
+		D9863DAA22601BBA00F7C722 /* ExtensionUserDefault.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9863DA922601BBA00F7C722 /* ExtensionUserDefault.swift */; };
+		D9863DAC226040A600F7C722 /* ExtensionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9863DAB226040A600F7C722 /* ExtensionViewController.swift */; };
+		D9863DB12260436100F7C722 /* PauseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9863DB02260436100F7C722 /* PauseView.swift */; };
+		D9863DB3226045DC00F7C722 /* PauseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9863DB2226045DC00F7C722 /* PauseViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +55,14 @@
 		D9863D8F225FEBC000F7C722 /* MasterFlagUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MasterFlagUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D9863D93225FEBC000F7C722 /* MasterFlagUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MasterFlagUITests.swift; sourceTree = "<group>"; };
 		D9863D95225FEBC000F7C722 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D9863DA1225FF17000F7C722 /* countries.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = countries.txt; sourceTree = "<group>"; };
+		D9863DA32260000700F7C722 /* ExtensionUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtensionUIView.swift; sourceTree = "<group>"; };
+		D9863DA522600FA600F7C722 /* GameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameView.swift; sourceTree = "<group>"; };
+		D9863DA7226016D500F7C722 /* GameViewController + ActionHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "GameViewController + ActionHandler.swift"; sourceTree = "<group>"; };
+		D9863DA922601BBA00F7C722 /* ExtensionUserDefault.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtensionUserDefault.swift; sourceTree = "<group>"; };
+		D9863DAB226040A600F7C722 /* ExtensionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtensionViewController.swift; sourceTree = "<group>"; };
+		D9863DB02260436100F7C722 /* PauseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PauseView.swift; sourceTree = "<group>"; };
+		D9863DB2226045DC00F7C722 /* PauseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PauseViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,12 +113,17 @@
 		D9863D72225FEBBD00F7C722 /* MasterFlag */ = {
 			isa = PBXGroup;
 			children = (
+				D9863DAF2260434200F7C722 /* Views */,
+				D9863DAE2260433200F7C722 /* ViewControllers */,
 				D9863D73225FEBBD00F7C722 /* AppDelegate.swift */,
-				D9863D75225FEBBD00F7C722 /* ViewController.swift */,
 				D9863D77225FEBBD00F7C722 /* Main.storyboard */,
+				D9863DA1225FF17000F7C722 /* countries.txt */,
 				D9863D7A225FEBC000F7C722 /* Assets.xcassets */,
 				D9863D7C225FEBC000F7C722 /* LaunchScreen.storyboard */,
 				D9863D7F225FEBC000F7C722 /* Info.plist */,
+				D9863DA32260000700F7C722 /* ExtensionUIView.swift */,
+				D9863DA922601BBA00F7C722 /* ExtensionUserDefault.swift */,
+				D9863DAB226040A600F7C722 /* ExtensionViewController.swift */,
 			);
 			path = MasterFlag;
 			sourceTree = "<group>";
@@ -123,6 +144,33 @@
 				D9863D95225FEBC000F7C722 /* Info.plist */,
 			);
 			path = MasterFlagUITests;
+			sourceTree = "<group>";
+		};
+		D9863DAD2260431600F7C722 /* FlagViewController */ = {
+			isa = PBXGroup;
+			children = (
+				D9863D75225FEBBD00F7C722 /* ViewController.swift */,
+				D9863DA7226016D500F7C722 /* GameViewController + ActionHandler.swift */,
+			);
+			path = FlagViewController;
+			sourceTree = "<group>";
+		};
+		D9863DAE2260433200F7C722 /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				D9863DAD2260431600F7C722 /* FlagViewController */,
+				D9863DB2226045DC00F7C722 /* PauseViewController.swift */,
+			);
+			path = ViewControllers;
+			sourceTree = "<group>";
+		};
+		D9863DAF2260434200F7C722 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				D9863DA522600FA600F7C722 /* GameView.swift */,
+				D9863DB02260436100F7C722 /* PauseView.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -232,6 +280,7 @@
 				D9863D7E225FEBC000F7C722 /* LaunchScreen.storyboard in Resources */,
 				D9863D7B225FEBC000F7C722 /* Assets.xcassets in Resources */,
 				D9863D79225FEBBD00F7C722 /* Main.storyboard in Resources */,
+				D9863DA2225FF17000F7C722 /* countries.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -256,8 +305,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D9863DA42260000700F7C722 /* ExtensionUIView.swift in Sources */,
 				D9863D76225FEBBD00F7C722 /* ViewController.swift in Sources */,
+				D9863DA622600FA600F7C722 /* GameView.swift in Sources */,
+				D9863DB12260436100F7C722 /* PauseView.swift in Sources */,
 				D9863D74225FEBBD00F7C722 /* AppDelegate.swift in Sources */,
+				D9863DA8226016D500F7C722 /* GameViewController + ActionHandler.swift in Sources */,
+				D9863DAA22601BBA00F7C722 /* ExtensionUserDefault.swift in Sources */,
+				D9863DAC226040A600F7C722 /* ExtensionViewController.swift in Sources */,
+				D9863DB3226045DC00F7C722 /* PauseViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -432,14 +488,18 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 28ZLNUFKB2;
 				INFOPLIST_FILE = MasterFlag/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = learn.MasterFlag;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -449,14 +509,18 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 28ZLNUFKB2;
 				INFOPLIST_FILE = MasterFlag/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = learn.MasterFlag;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
