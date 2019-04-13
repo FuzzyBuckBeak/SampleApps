@@ -21,6 +21,7 @@ class ViewController: UIViewController {
     
     var answer = 0
     var countries: [String] = []
+    let notification = UINotificationFeedbackGenerator()
     var score:Int  {
         set {
             UserDefaults.shared.score = newValue
@@ -46,15 +47,17 @@ class ViewController: UIViewController {
                 countries = Array(countries.dropLast())
             }
         }
+        restartGame()
+    }
+    
+    func restartGame() {
+        gameView.scoreLabel.fadeValue(value: String(score))
         startGame()
     }
     
-    
     func startGame() {
-        gameView.scoreLabel.fadeValue(value: String(score))
         answer = Int.random(in: 0...3)
         countries.shuffle()
-        print(countries[0...3])
         gameView.firstFlagButton.fadeImage(imageName: countries[0])
         gameView.secondFlagButton.fadeImage(imageName: countries[1])
         gameView.thirdFlagButton.fadeImage(imageName: countries[2])
@@ -63,8 +66,10 @@ class ViewController: UIViewController {
     }
     
     func updateUI(score: Int, isCorrect: Bool, view: UIButton) {
+        gameView.scoreLabel.fadeValue(value: String(score))
         if !isCorrect {
             view.shake()
+            notification.notificationOccurred(.error)
         } else {
             startGame()
         }

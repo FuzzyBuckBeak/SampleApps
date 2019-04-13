@@ -37,9 +37,19 @@ class GameView: UIView {
     @IBOutlet weak var fourthFlagButton: UIButton!
     
     func setupView() {
-        headerView.layer.cornerRadius = headerView.frame.height / 3
-        footerView.layer.cornerRadius = footerView.frame.height / 3
+        headerView.layer.cornerRadius = headerView.frame.height / 2.5
+        footerView.layer.cornerRadius = footerView.frame.height / 2.5
         pauseButton.layer.cornerRadius = pauseButton.frame.height / 2
+        firstFlagButton.layer.borderWidth = 1
+        secondFlagButton.layer.borderWidth = 1
+        thirdFlagButton.layer.borderWidth = 1
+        fourthFlagButton.layer.borderWidth = 1
+        
+        let color = UIColor.white.cgColor
+        firstFlagButton.layer.borderColor = color
+        secondFlagButton.layer.borderColor = color
+        thirdFlagButton.layer.borderColor = color
+        fourthFlagButton.layer.borderColor = color
     }
     
     @IBAction func pauseButtonTapped(_ sender: UIButton) {

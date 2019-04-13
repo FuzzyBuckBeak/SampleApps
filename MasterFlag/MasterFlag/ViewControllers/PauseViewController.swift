@@ -38,7 +38,7 @@ class PauseViewController: UIViewController, PauseViewProtocol {
     func resetTapped() {
         UserDefaults.shared.reset()
         self.remove()
-        parentcontroller?.startGame()
+        parentcontroller?.restartGame()
     }
     
     func exitTapped() {
