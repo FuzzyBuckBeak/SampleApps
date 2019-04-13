@@ -71,6 +71,7 @@ class ViewController: UIViewController {
             view.shake()
             notification.notificationOccurred(.error)
         } else {
+            notification.notificationOccurred(.success)
             startGame()
         }
     }

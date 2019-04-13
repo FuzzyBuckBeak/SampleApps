@@ -40,8 +40,4 @@ class PauseViewController: UIViewController, PauseViewProtocol {
         self.remove()
         parentcontroller?.restartGame()
     }
-    
-    func exitTapped() {
-        exit(0)
-    }
 }
