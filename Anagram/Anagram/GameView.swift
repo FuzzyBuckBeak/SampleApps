@@ -1,8 +1,8 @@
 //
-// ViewController.swift
-// MasterFlag
+// GameView.swift
+// Anagram
 //
-// Created by: FuzzyBuckBeak on 4/11/19
+// Created by: FuzzyBuckBeak on 4/13/19
 // Copyright © 2018 FuzzyBuckBeak. All rights reserved.
 
 
@@ -17,13 +17,14 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class GameView: UIView {
 
-    override func viewDidLoad() {
-        super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+    /*
+    // Only override draw() if you perform custom drawing.
+    // An empty implementation adversely affects performance during animation.
+    override func draw(_ rect: CGRect) {
+        // Drawing code
     }
-
+    */
 
 }
-
