@@ -21,7 +21,7 @@ class ViewController: UIViewController, UITextViewDelegate, UITextFieldDelegate 
     var usedWords: [String] = []
 
     var timer = Timer()
-    var duration: Int = 0
+    var duration: Int = 120
     
     var gameView: GameView! {
         guard isViewLoaded else { return nil }

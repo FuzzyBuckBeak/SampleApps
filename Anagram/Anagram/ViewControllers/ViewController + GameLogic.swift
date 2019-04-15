@@ -30,8 +30,8 @@ extension ViewController {
     }
     
     @objc func handleTimer() {
-        if duration < 120 {
-            duration += 1
+        if duration > 0 {
+            duration -= 1
             updateTimerUI(duration)
         } else {
             restartGame()
@@ -48,7 +48,7 @@ extension ViewController {
 
     func restartGame() {
         timer.invalidate()
-        duration = 0
+        duration = 120
         score = 0
         startGame()
     }
