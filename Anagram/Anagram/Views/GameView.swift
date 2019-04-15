@@ -42,6 +42,7 @@ class GameView: UIView {
         inputTextField.returnKeyType = .done
         inputTextField.autocapitalizationType = .allCharacters
         inputTextField.delegate = self
+        inputTextField.addTarget(self, action: #selector(textChanged(_:)), for: UIControl.Event.editingChanged)
         headerView.layer.cornerRadius = headerView.frame.height / 2
         pauseButton.layer.cornerRadius = pauseButton.frame.height / 2
         viewIsAboutToAppear()
@@ -65,5 +66,9 @@ extension GameView: UITextFieldDelegate {
     func textFieldShouldReturn(_ textField: UITextField) -> Bool {
         guard let gameViewDelegate = delegate else { fatalError() }
         return gameViewDelegate.textFieldShouldReturn(textField)
+    }
+    
+    @objc func textChanged(_ sender: UITextField) {
+        sender.text = sender.text?.uppercased()
     }
 }
