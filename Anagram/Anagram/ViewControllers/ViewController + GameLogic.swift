@@ -20,7 +20,7 @@ extension ViewController {
         gameView.scoreLabel.text = String(score)
         gameView.inputTextField.text = ""
         gameView.validWordTextView.text = ""
-        gameView.timerLabel.text = "00:00"
+        gameView.timerLabel.text = "02:00"
         usedWords.removeAll(keepingCapacity: true)
         startTimer()
     }

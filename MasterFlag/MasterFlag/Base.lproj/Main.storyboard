@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="PLW-SZ-CQE">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="PLW-SZ-CQE">
     <device id="retina4_7" orientation="portrait">
         <adaptation id="fullscreen"/>
     </device>
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
@@ -31,14 +31,14 @@
                                                         <rect key="frame" x="0.0" y="0.0" width="248.5" height="50"/>
                                                         <subviews>
                                                             <stackView opaque="NO" contentMode="scaleToFill" alignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="PHa-Oh-i4c">
-                                                                <rect key="frame" x="0.0" y="0.0" width="44" height="50"/>
+                                                                <rect key="frame" x="0.0" y="0.0" width="40" height="50"/>
                                                                 <subviews>
                                                                     <button opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="252" verticalHuggingPriority="252" horizontalCompressionResistancePriority="751" verticalCompressionResistancePriority="751" contentHorizontalAlignment="leading" contentVerticalAlignment="center" reversesTitleShadowWhenHighlighted="YES" adjustsImageWhenHighlighted="NO" adjustsImageWhenDisabled="NO" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="myh-Yn-qAP">
-                                                                        <rect key="frame" x="0.0" y="3" width="44" height="44"/>
+                                                                        <rect key="frame" x="0.0" y="5" width="40" height="40"/>
                                                                         <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                                         <constraints>
                                                                             <constraint firstAttribute="width" secondItem="myh-Yn-qAP" secondAttribute="height" multiplier="1:1" id="Ltx-9H-atV"/>
-                                                                            <constraint firstAttribute="width" constant="44" id="q46-zU-e5D"/>
+                                                                            <constraint firstAttribute="width" constant="40" id="q46-zU-e5D"/>
                                                                         </constraints>
                                                                         <state key="normal" image="icons8-pause-button-filled-100 (2)"/>
                                                                         <userDefinedRuntimeAttributes>
@@ -308,6 +308,6 @@
         <image name="Yemen" width="550" height="367"/>
         <image name="Zambia" width="550" height="367"/>
         <image name="Zimbabwe" width="2000" height="1000"/>
-        <image name="icons8-pause-button-filled-100 (2)" width="153.19148254394531" height="153.19148254394531"/>
+        <image name="icons8-pause-button-filled-100 (2)" width="100" height="100"/>
     </resources>
 </document>
