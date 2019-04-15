@@ -24,7 +24,5 @@ extension UserDefaults {
         set { set(newValue, forKey: "Score") }
     }
     
-    func reset() {
-        score = 0
-    }
+    func reset() { score = 0 }
 }
