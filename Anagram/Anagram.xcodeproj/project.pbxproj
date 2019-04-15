@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D9122B1F2264721400B30853 /* ExtensionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9122B1E2264721400B30853 /* ExtensionViewController.swift */; };
+		D9122B252264727700B30853 /* ExtensionUserDefault.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9122B242264727700B30853 /* ExtensionUserDefault.swift */; };
+		D9122B272264729100B30853 /* PauseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9122B262264729100B30853 /* PauseView.swift */; };
+		D9122B292265118300B30853 /* PauseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9122B282265118200B30853 /* PauseViewController.swift */; };
 		D9580254226347F1000DD72E /* ViewController + keyBoardHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9580253226347F1000DD72E /* ViewController + keyBoardHandler.swift */; };
 		D958025622634A68000DD72E /* UITextView + Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = D958025522634A68000DD72E /* UITextView + Extension.swift */; };
 		D958025822634AF8000DD72E /* ViewController + UserInterface.swift in Sources */ = {isa = PBXBuildFile; fileRef = D958025722634AF8000DD72E /* ViewController + UserInterface.swift */; };
@@ -41,11 +45,15 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D9122B1E2264721400B30853 /* ExtensionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExtensionViewController.swift; sourceTree = "<group>"; };
+		D9122B242264727700B30853 /* ExtensionUserDefault.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExtensionUserDefault.swift; sourceTree = "<group>"; };
+		D9122B262264729100B30853 /* PauseView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PauseView.swift; sourceTree = "<group>"; };
+		D9122B282265118200B30853 /* PauseViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PauseViewController.swift; sourceTree = "<group>"; };
 		D9580253226347F1000DD72E /* ViewController + keyBoardHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ViewController + keyBoardHandler.swift"; sourceTree = "<group>"; };
 		D958025522634A68000DD72E /* UITextView + Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UITextView + Extension.swift"; sourceTree = "<group>"; };
 		D958025722634AF8000DD72E /* ViewController + UserInterface.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ViewController + UserInterface.swift"; sourceTree = "<group>"; };
 		D958025922634BBB000DD72E /* ViewController + GameLogic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ViewController + GameLogic.swift"; sourceTree = "<group>"; };
-		D9E8FE7C226352B700EEEC70 /* ExtensionUIView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ExtensionUIView.swift; path = ../../MasterFlag/MasterFlag/ExtensionUIView.swift; sourceTree = "<group>"; };
+		D9E8FE7C226352B700EEEC70 /* ExtensionUIView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExtensionUIView.swift; sourceTree = "<group>"; };
 		D9E8FE7F2263562800EEEC70 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 		D9F4F5102262796B00B8AFD8 /* Anagram.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Anagram.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D9F4F5132262796B00B8AFD8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -88,6 +96,38 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		D9122B2A2265120E00B30853 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				D958025522634A68000DD72E /* UITextView + Extension.swift */,
+				D9E8FE7C226352B700EEEC70 /* ExtensionUIView.swift */,
+				D9122B1E2264721400B30853 /* ExtensionViewController.swift */,
+				D9122B242264727700B30853 /* ExtensionUserDefault.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		D9122B2B2265121A00B30853 /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				D9122B282265118200B30853 /* PauseViewController.swift */,
+				D9F4F5152262796B00B8AFD8 /* ViewController.swift */,
+				D9580253226347F1000DD72E /* ViewController + keyBoardHandler.swift */,
+				D958025722634AF8000DD72E /* ViewController + UserInterface.swift */,
+				D958025922634BBB000DD72E /* ViewController + GameLogic.swift */,
+			);
+			path = ViewControllers;
+			sourceTree = "<group>";
+		};
+		D9122B2C2265122800B30853 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				D9F4F541226281E400B8AFD8 /* GameView.swift */,
+				D9122B262264729100B30853 /* PauseView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
 		D9F4F5072262796B00B8AFD8 = {
 			isa = PBXGroup;
 			children = (
@@ -111,14 +151,10 @@
 		D9F4F5122262796B00B8AFD8 /* Anagram */ = {
 			isa = PBXGroup;
 			children = (
+				D9122B2C2265122800B30853 /* Views */,
+				D9122B2B2265121A00B30853 /* ViewControllers */,
+				D9122B2A2265120E00B30853 /* Extensions */,
 				D9F4F5132262796B00B8AFD8 /* AppDelegate.swift */,
-				D9F4F541226281E400B8AFD8 /* GameView.swift */,
-				D9F4F5152262796B00B8AFD8 /* ViewController.swift */,
-				D958025522634A68000DD72E /* UITextView + Extension.swift */,
-				D9580253226347F1000DD72E /* ViewController + keyBoardHandler.swift */,
-				D958025722634AF8000DD72E /* ViewController + UserInterface.swift */,
-				D958025922634BBB000DD72E /* ViewController + GameLogic.swift */,
-				D9E8FE7C226352B700EEEC70 /* ExtensionUIView.swift */,
 				D9E8FE7F2263562800EEEC70 /* start.txt */,
 				D9F4F51A2262796C00B8AFD8 /* Assets.xcassets */,
 				D9F4F5172262796B00B8AFD8 /* Main.storyboard */,
@@ -280,9 +316,13 @@
 			files = (
 				D9F4F5162262796B00B8AFD8 /* ViewController.swift in Sources */,
 				D9F4F542226281E400B8AFD8 /* GameView.swift in Sources */,
+				D9122B272264729100B30853 /* PauseView.swift in Sources */,
+				D9122B1F2264721400B30853 /* ExtensionViewController.swift in Sources */,
 				D9F4F5142262796B00B8AFD8 /* AppDelegate.swift in Sources */,
+				D9122B292265118300B30853 /* PauseViewController.swift in Sources */,
 				D9580254226347F1000DD72E /* ViewController + keyBoardHandler.swift in Sources */,
 				D958025622634A68000DD72E /* UITextView + Extension.swift in Sources */,
+				D9122B252264727700B30853 /* ExtensionUserDefault.swift in Sources */,
 				D958025822634AF8000DD72E /* ViewController + UserInterface.swift in Sources */,
 				D9E8FE7D226352B700EEEC70 /* ExtensionUIView.swift in Sources */,
 				D958025A22634BBB000DD72E /* ViewController + GameLogic.swift in Sources */,

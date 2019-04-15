@@ -10,7 +10,6 @@ import UIKit
 
 extension ViewController {
     func updateTextView(_ value: String) {
-        usedWords.append(value)
         print(gameView.validWordTextView.contentSize.height)
         print(gameView.validWordView.frame.height)
         gameView.validWordTextView.text = gameView.validWordTextView.text + "\n" + value
@@ -25,8 +24,8 @@ extension ViewController {
     }
     
     
-    func updateTimerUI(_ duration: Int) {
-        let value = ((duration % 3600) / 60, (duration % 3600) % 60)
-        gameView.timerLabel.text = String(value.0) + ":" + String(value.1)
+    @objc func updateTimerUI(_ duration: Int) {
+        let (minutes, seconds) = ((duration % 3600) / 60, (duration % 3600) % 60)
+        gameView.timerLabel.text = String(format:"%02i:%02i", minutes, seconds)
     }
 }

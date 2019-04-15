@@ -8,40 +8,59 @@
 
 import UIKit
 
+enum WordType {
+    case invalid
+    case duplicate
+    case impossible
+}
+
 extension ViewController {
     func startGame() {
         gameView.chosenWordLabel.text = allWords.randomElement()?.uppercased()
-        gameView.scoreLabel.text = ""
+        gameView.scoreLabel.text = String(score)
         gameView.inputTextField.text = ""
         gameView.validWordTextView.text = ""
+        gameView.timerLabel.text = "00:00"
         usedWords.removeAll(keepingCapacity: true)
-        initializeTimer()
+        startTimer()
     }
     
-    func initializeTimer() {
-        timer = Timer.scheduledTimer(withTimeInterval: 1, repeats: true, block: { [weak self] timer in
-            guard let strongSelf = self else { return }
-            strongSelf.duration += 1
-            if strongSelf.duration < 20 {
-                strongSelf.updateTimerUI(strongSelf.duration)
-            } else {
-                timer.invalidate()
-                strongSelf.duration = 0
-                strongSelf.startGame()
-            }
-        })
+    func startTimer() {
+        timer = Timer.scheduledTimer(timeInterval: 1, target: self, selector: #selector(handleTimer), userInfo: nil, repeats: true)
     }
     
-    private func isValid(word: String, mainWord: String) -> Bool {
+    @objc func handleTimer() {
+        if duration < 120 {
+            duration += 1
+            updateTimerUI(duration)
+        } else {
+            restartGame()
+        }
+    }
+    
+    func timerPaused(_ isPaused: Bool) {
+        if isPaused {
+            timer.invalidate()
+        } else {
+            startTimer()
+        }
+    }
+
+    func restartGame() {
+        timer.invalidate()
+        duration = 0
+        score = 0
+        startGame()
+    }
+    
+    private func isValid(word: String, mainWord: String) -> WordType? {
         let mainWord = mainWord.lowercased()
         let subWord = word.lowercased()
         
-        if  isPossible(mainWord: mainWord, subWord: subWord),
-            !isOriginal(word: subWord),
-            isReal(word: word, mainWord: mainWord) {
-            return true
-        }
-        return false
+        guard isPossible(mainWord: mainWord, subWord: subWord) != false else { return WordType.impossible}
+        guard isOriginal(word: subWord) == false else { return WordType.duplicate }
+        guard isReal(word: word, mainWord: mainWord) != false else { return WordType.invalid }
+        return nil
     }
     
     private func isPossible(mainWord: String, subWord: String) -> Bool {
@@ -66,10 +85,11 @@ extension ViewController {
     }
     
     func handoffToLogicController(subValue: String, mainValue: String) {
-        if (isValid(word: subValue, mainWord: mainValue)) {
-            handleSucessCase(value: subValue)
+        if let type = isValid(word: subValue, mainWord: mainValue) {
+            handleFailureCase(type: type)
         } else {
-            handleFailureCase()
+            handleSucessCase(value: subValue)
+            usedWords.append(subValue.lowercased())
         }
         updateScoreBoard(score: score)
     }
@@ -79,8 +99,12 @@ extension ViewController {
         score += value.count * 5
     }
     
-    private func handleFailureCase() {
-         gameView.inputTextField.shake()
-        score -= 10
+    private func handleFailureCase(type: WordType) {
+        gameView.inputTextField.shake()
+        switch type {
+        case .invalid: score -= 5
+        case .impossible: score -= 10
+        default: return
+        }
     }
 }

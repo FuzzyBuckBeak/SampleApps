@@ -19,6 +19,9 @@ import UIKit
 
 protocol GameViewProtocol: class {
     func textFieldShouldReturn(_ textfield: UITextField) -> Bool
+    func pauseTapped(_ sender: UIButton)
+    func viewIsAboutToAppear()
+    func viewIsAboutToDisapper()
 }
 
 class GameView: UIView {
@@ -36,13 +39,25 @@ class GameView: UIView {
     @IBOutlet weak var chosenWordLabel: UILabel!
     
     func setupView() {
-        inputTextField.becomeFirstResponder()
         inputTextField.returnKeyType = .done
         inputTextField.autocapitalizationType = .allCharacters
         inputTextField.delegate = self
-       // validWordTextView.delegate = self
         headerView.layer.cornerRadius = headerView.frame.height / 2
         pauseButton.layer.cornerRadius = pauseButton.frame.height / 2
+        viewIsAboutToAppear()
+    }
+    
+    @IBAction func pauseButtonTapped(_ sender: UIButton) {
+        guard let gameViewDelegate = delegate else { fatalError() }
+        return gameViewDelegate.pauseTapped(sender)
+    }
+    
+    func viewIsAboutToAppear() {
+        inputTextField.becomeFirstResponder()
+    }
+    
+    func viewIsAboutToDisapper() {
+         inputTextField.resignFirstResponder()
     }
 }
 
@@ -52,5 +67,3 @@ extension GameView: UITextFieldDelegate {
         return gameViewDelegate.textFieldShouldReturn(textField)
     }
 }
-
-//extension GameView: UITextViewDelegate { }
