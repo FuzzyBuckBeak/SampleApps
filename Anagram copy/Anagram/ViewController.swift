@@ -21,9 +21,6 @@ class ViewController: UIViewController, UITextViewDelegate, UITextFieldDelegate 
     var keyboardFrame: CGRect!
     var allWords: [String] = []
     var usedWords: [String] = []
-    var score: Int = 0
-    var timer = Timer()
-    var duration: Int = 0
     
     var gameView: GameView! {
         guard isViewLoaded else { return nil }
@@ -39,9 +36,8 @@ class ViewController: UIViewController, UITextViewDelegate, UITextFieldDelegate 
             if let startWords = try? String(contentsOf: startWordsURL) {
                 allWords = startWords.components(separatedBy: "\n")
             }
-        } else {
-            allWords = ["Apoorva"]
         }
+        allWords = ["SILKWORM"]
         // Do any additional setup after loading the view, typically from a nib.
         NotificationCenter.default.addObserver(self, selector: #selector(keyboardWillChange(_:)), name: UIResponder.keyboardWillShowNotification, object: nil)
         startGame()
@@ -58,7 +54,12 @@ extension ViewController: GameViewProtocol {
         if let textValue = textField.text,
            textValue.count > 0,
            let mainWord = gameView.chosenWordLabel.text {
-           handoffToLogicController(subValue: textValue, mainValue: mainWord)
+            if (isValid(word: textValue, mainWord: mainWord)) {
+                updateTextView(textValue)
+                textField.text = ""
+            } else {
+                textField.shake()
+            }
         }
         return false
     }

@@ -46,7 +46,7 @@
 		D96B4A43225E71B90069498B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D96B4A48225E71B90069498B /* Word ScamblerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Word ScamblerTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D96B4A53225E71B90069498B /* Word ScamblerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Word ScamblerUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		D96B4A65225E72710069498B /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
+		D96B4A65225E72710069498B /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = start.txt; path = ../../Anagram/Anagram/start.txt; sourceTree = "<group>"; };
 		D96B4A67225E82710069498B /* ViewController + GameStatusHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ViewController + GameStatusHandler.swift"; sourceTree = "<group>"; };
 		D96B4A69225E91E20069498B /* ScramblerConstants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScramblerConstants.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */

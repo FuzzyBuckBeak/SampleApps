@@ -23,8 +23,6 @@ protocol GameViewProtocol: class {
 
 class GameView: UIView {
 
-    @IBOutlet weak var timerLabel: UILabel!
-    @IBOutlet weak var scoreLabel: UILabel!
     weak var delegate: GameViewProtocol?
     @IBOutlet weak var myViewBottomConstriants: NSLayoutConstraint!
     @IBOutlet weak var headerView: UIView!
@@ -40,7 +38,7 @@ class GameView: UIView {
         inputTextField.returnKeyType = .done
         inputTextField.autocapitalizationType = .allCharacters
         inputTextField.delegate = self
-       // validWordTextView.delegate = self
+        validWordTextView.delegate = self
         headerView.layer.cornerRadius = headerView.frame.height / 2
         pauseButton.layer.cornerRadius = pauseButton.frame.height / 2
     }
@@ -53,4 +51,6 @@ extension GameView: UITextFieldDelegate {
     }
 }
 
-//extension GameView: UITextViewDelegate { }
+extension GameView: UITextViewDelegate {
+    
+}

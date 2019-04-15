@@ -39,12 +39,3 @@ extension UILabel {
     }
 }
 
-extension UIButton {
-    func fadeImage(imageName: String) {
-        let image = UIImage(named: imageName)
-        UIView.transition(with: self, duration: 1.0, options: .transitionCrossDissolve, animations: { [weak self] in
-            self?.setImage(image, for: .normal)
-        }, completion: nil)
-    }
-}
-

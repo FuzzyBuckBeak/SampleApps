@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="ZpU-wb-yNy">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="ZpU-wb-yNy">
     <device id="retina4_7" orientation="portrait">
         <adaptation id="fullscreen"/>
     </device>
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
@@ -25,7 +25,7 @@
                                         <rect key="frame" x="0.0" y="0.0" width="331" height="33"/>
                                         <subviews>
                                             <stackView contentMode="scaleToFill" axis="vertical" alignment="top" translatesAutoresizingMaskIntoConstraints="NO" id="T07-lB-ZMl">
-                                                <rect key="frame" x="0.0" y="0.0" width="197.5" height="33"/>
+                                                <rect key="frame" x="0.0" y="0.0" width="169" height="33"/>
                                                 <subviews>
                                                     <stackView contentMode="scaleToFill" alignment="center" spacing="3" translatesAutoresizingMaskIntoConstraints="NO" id="6PE-vp-Stg">
                                                         <rect key="frame" x="0.0" y="0.0" width="72.5" height="33"/>
@@ -53,10 +53,10 @@
                                                 </subviews>
                                             </stackView>
                                             <stackView contentMode="scaleToFill" axis="vertical" translatesAutoresizingMaskIntoConstraints="NO" id="jOh-yU-uLs">
-                                                <rect key="frame" x="197.5" y="0.0" width="133.5" height="33"/>
+                                                <rect key="frame" x="169" y="0.0" width="162" height="33"/>
                                                 <subviews>
                                                     <stackView opaque="NO" contentMode="scaleToFill" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="A1H-Kw-VqI">
-                                                        <rect key="frame" x="0.0" y="0.0" width="133.5" height="33"/>
+                                                        <rect key="frame" x="0.0" y="0.0" width="162" height="33"/>
                                                         <subviews>
                                                             <stackView opaque="NO" contentMode="scaleToFill" spacing="44" translatesAutoresizingMaskIntoConstraints="NO" id="wJW-jD-qjk">
                                                                 <rect key="frame" x="0.0" y="0.0" width="50" height="33"/>
@@ -74,7 +74,7 @@
                                                                 </subviews>
                                                             </stackView>
                                                             <stackView opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" spacing="15" translatesAutoresizingMaskIntoConstraints="NO" id="Kgx-It-anw">
-                                                                <rect key="frame" x="71" y="0.0" width="62.5" height="33"/>
+                                                                <rect key="frame" x="71" y="0.0" width="91" height="33"/>
                                                                 <subviews>
                                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Score" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="V40-bb-MzR">
                                                                         <rect key="frame" x="0.0" y="0.0" width="37.5" height="33"/>
@@ -82,8 +82,8 @@
                                                                         <color key="textColor" red="0.2138174176" green="0.067507885399999995" blue="0.23452046509999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                                         <nil key="highlightedColor"/>
                                                                     </label>
-                                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="0" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="X3Y-aE-BEz">
-                                                                        <rect key="frame" x="52.5" y="0.0" width="10" height="33"/>
+                                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="2300" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="X3Y-aE-BEz">
+                                                                        <rect key="frame" x="52.5" y="0.0" width="38.5" height="33"/>
                                                                         <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="14"/>
                                                                         <color key="textColor" red="0.2138174176" green="0.067507885399999995" blue="0.23452046509999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                                         <nil key="highlightedColor"/>
@@ -176,8 +176,6 @@
                             <outlet property="inputTextField" destination="VIG-Qq-1Gk" id="qyQ-S5-6Me"/>
                             <outlet property="myViewBottomConstriants" destination="A0i-3l-ZI3" id="39p-T7-JNV"/>
                             <outlet property="pauseButton" destination="DMp-OE-9Hl" id="XdT-i3-uiq"/>
-                            <outlet property="scoreLabel" destination="X3Y-aE-BEz" id="rXa-SZ-ykd"/>
-                            <outlet property="timerLabel" destination="kOD-eR-9Zf" id="OWM-9C-3nq"/>
                             <outlet property="validWordTextView" destination="pB5-YG-aFu" id="4KO-tH-BM1"/>
                             <outlet property="validWordView" destination="A7J-Dh-M2W" id="Xlf-5S-nrr"/>
                             <outlet property="validWordViewHeightConstraints" destination="OKM-xe-OlE" id="dET-NN-3CS"/>
@@ -191,6 +189,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="icons8-pause-button-100" width="100" height="100"/>
+        <image name="icons8-pause-button-100" width="153.19148254394531" height="153.19148254394531"/>
     </resources>
 </document>
