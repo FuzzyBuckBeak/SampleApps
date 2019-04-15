@@ -54,6 +54,13 @@ class ViewController: UIViewController, UITextViewDelegate, UITextFieldDelegate 
 }
 
 extension ViewController: GameViewProtocol {
+    func infoTapped(_ sender: UIButton) {
+        if UIReferenceLibraryViewController.dictionaryHasDefinition(forTerm: "Home") {
+            let ref: UIReferenceLibraryViewController = UIReferenceLibraryViewController(term: "Home")
+            self.present(ref, animated: true, completion: nil)
+        }
+    }
+    
     func viewIsAboutToAppear() {
         gameView.viewIsAboutToAppear()
     }

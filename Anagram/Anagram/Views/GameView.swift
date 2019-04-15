@@ -20,6 +20,7 @@ import UIKit
 protocol GameViewProtocol: class {
     func textFieldShouldReturn(_ textfield: UITextField) -> Bool
     func pauseTapped(_ sender: UIButton)
+    func infoTapped(_ sender: UIButton)
     func viewIsAboutToAppear()
     func viewIsAboutToDisapper()
 }
@@ -46,6 +47,11 @@ class GameView: UIView {
         headerView.layer.cornerRadius = headerView.frame.height / 2
         pauseButton.layer.cornerRadius = pauseButton.frame.height / 2
         viewIsAboutToAppear()
+    }
+    
+    @IBAction func infoTapped(_ sender: UIButton) {
+        guard let gameViewDelegate = delegate else { fatalError() }
+        return gameViewDelegate.infoTapped(sender)
     }
     
     @IBAction func pauseButtonTapped(_ sender: UIButton) {

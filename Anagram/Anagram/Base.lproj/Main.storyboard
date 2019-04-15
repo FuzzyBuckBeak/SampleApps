@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="ZpU-wb-yNy">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="ZpU-wb-yNy">
     <device id="retina4_7" orientation="portrait">
         <adaptation id="fullscreen"/>
     </device>
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
@@ -97,13 +97,24 @@
                                     <constraint firstAttribute="trailing" secondItem="TNH-0E-w2U" secondAttribute="trailing" constant="12" id="oI7-09-uQV"/>
                                 </constraints>
                             </view>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="252" verticalHuggingPriority="253" horizontalCompressionResistancePriority="752" verticalCompressionResistancePriority="752" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ucA-z7-HIp">
-                                <rect key="frame" x="16" y="86" width="343" height="25.5"/>
-                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="21"/>
-                                <color key="textColor" red="0.93777859210000003" green="0.4631690383" blue="0.47818154099999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                <nil key="highlightedColor"/>
-                            </label>
+                            <stackView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="bWM-gq-kUP">
+                                <rect key="frame" x="16" y="86" width="349" height="25.5"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalCompressionResistancePriority="752" verticalCompressionResistancePriority="752" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ucA-z7-HIp">
+                                        <rect key="frame" x="0.0" y="0.0" width="327" height="25.5"/>
+                                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="21"/>
+                                        <color key="textColor" red="0.93777859210000003" green="0.4631690383" blue="0.47818154099999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <button opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="infoDark" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="QWO-Eh-ffI">
+                                        <rect key="frame" x="327" y="0.0" width="22" height="25.5"/>
+                                        <connections>
+                                            <action selector="infoTapped:" destination="yOo-qb-jHh" eventType="touchUpInside" id="EX1-AQ-RrI"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                            </stackView>
                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="A7J-Dh-M2W">
                                 <rect key="frame" x="16" y="121.5" width="343" height="493.5"/>
                                 <subviews>
@@ -147,18 +158,18 @@
                         <color key="backgroundColor" red="0.2138174176" green="0.067507885399999995" blue="0.23452046509999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="ULz-LY-AWT" firstAttribute="bottom" secondItem="Y13-S1-Uzq" secondAttribute="bottom" constant="16" id="A0i-3l-ZI3"/>
-                            <constraint firstItem="ULz-LY-AWT" firstAttribute="trailing" secondItem="ucA-z7-HIp" secondAttribute="trailing" constant="16" id="ABe-MT-NyO"/>
+                            <constraint firstItem="A7J-Dh-M2W" firstAttribute="top" secondItem="bWM-gq-kUP" secondAttribute="bottom" constant="10" id="G9l-M1-Gj2"/>
                             <constraint firstItem="ULz-LY-AWT" firstAttribute="trailing" secondItem="yfy-hV-zVW" secondAttribute="trailing" constant="16" id="LF4-V9-aCI"/>
+                            <constraint firstItem="bWM-gq-kUP" firstAttribute="leading" secondItem="ULz-LY-AWT" secondAttribute="leading" constant="16" id="MGe-8w-LA7"/>
                             <constraint firstItem="ULz-LY-AWT" firstAttribute="trailing" secondItem="A7J-Dh-M2W" secondAttribute="trailing" constant="16" id="MbM-er-oWz"/>
                             <constraint firstItem="Y13-S1-Uzq" firstAttribute="top" secondItem="A7J-Dh-M2W" secondAttribute="bottom" constant="20" id="Pmo-9S-Xle"/>
-                            <constraint firstItem="ucA-z7-HIp" firstAttribute="leading" secondItem="ULz-LY-AWT" secondAttribute="leading" constant="16" id="ZxP-H7-mtD"/>
+                            <constraint firstItem="bWM-gq-kUP" firstAttribute="top" secondItem="yfy-hV-zVW" secondAttribute="bottom" constant="10" id="TJn-QJ-wvR"/>
+                            <constraint firstItem="ULz-LY-AWT" firstAttribute="trailing" secondItem="bWM-gq-kUP" secondAttribute="trailing" constant="10" id="Up8-8q-y6M"/>
                             <constraint firstItem="A7J-Dh-M2W" firstAttribute="leading" secondItem="ULz-LY-AWT" secondAttribute="leading" constant="16" id="acc-br-lkm"/>
                             <constraint firstItem="yfy-hV-zVW" firstAttribute="leading" secondItem="ULz-LY-AWT" secondAttribute="leading" constant="16" id="cFc-pn-R4t"/>
                             <constraint firstItem="Y13-S1-Uzq" firstAttribute="trailing" secondItem="ULz-LY-AWT" secondAttribute="trailing" id="d13-Pc-zTX"/>
                             <constraint firstItem="yfy-hV-zVW" firstAttribute="top" secondItem="ULz-LY-AWT" secondAttribute="top" constant="16" id="i5r-0g-8kd"/>
-                            <constraint firstItem="ucA-z7-HIp" firstAttribute="top" secondItem="yfy-hV-zVW" secondAttribute="bottom" constant="10" id="lTH-9R-Jkx"/>
                             <constraint firstItem="Y13-S1-Uzq" firstAttribute="leading" secondItem="ULz-LY-AWT" secondAttribute="leading" id="lhr-pb-6e9"/>
-                            <constraint firstItem="A7J-Dh-M2W" firstAttribute="top" secondItem="ucA-z7-HIp" secondAttribute="bottom" constant="10" id="qGX-MB-siB"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="ULz-LY-AWT"/>
                         <connections>
@@ -277,6 +288,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="icons8-pause-button-filled-100" width="100" height="100"/>
+        <image name="icons8-pause-button-filled-100" width="153.19148254394531" height="153.19148254394531"/>
     </resources>
 </document>
