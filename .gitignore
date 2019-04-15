@@ -1,1 +1,6 @@
 DerivedData
+.DS_Store
+*.xcuserstate
+UserInterfaceState.xcuserstate
+*.xcbkptlist
+Breakpoints_v2.xcbkptlist
