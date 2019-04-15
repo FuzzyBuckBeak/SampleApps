@@ -20,8 +20,8 @@
 		D9863DA8226016D500F7C722 /* GameViewController + ActionHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9863DA7226016D500F7C722 /* GameViewController + ActionHandler.swift */; };
 		D9863DAA22601BBA00F7C722 /* ExtensionUserDefault.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9863DA922601BBA00F7C722 /* ExtensionUserDefault.swift */; };
 		D9863DAC226040A600F7C722 /* ExtensionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9863DAB226040A600F7C722 /* ExtensionViewController.swift */; };
-		D9863DB12260436100F7C722 /* PauseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9863DB02260436100F7C722 /* PauseView.swift */; };
 		D9863DB3226045DC00F7C722 /* PauseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9863DB2226045DC00F7C722 /* PauseViewController.swift */; };
+		D9F4F5442265327200B8AFD8 /* PauseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9F4F5432265327200B8AFD8 /* PauseView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,8 +61,8 @@
 		D9863DA7226016D500F7C722 /* GameViewController + ActionHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "GameViewController + ActionHandler.swift"; sourceTree = "<group>"; };
 		D9863DA922601BBA00F7C722 /* ExtensionUserDefault.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtensionUserDefault.swift; sourceTree = "<group>"; };
 		D9863DAB226040A600F7C722 /* ExtensionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtensionViewController.swift; sourceTree = "<group>"; };
-		D9863DB02260436100F7C722 /* PauseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = PauseView.swift; path = /Users/apo/Desktop/PersonalProjects/Learning/SampleApps/MasterFlag/MasterFlag/Views/PauseView.swift; sourceTree = "<absolute>"; };
 		D9863DB2226045DC00F7C722 /* PauseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PauseViewController.swift; sourceTree = "<group>"; };
+		D9F4F5432265327200B8AFD8 /* PauseView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PauseView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -168,7 +168,7 @@
 			isa = PBXGroup;
 			children = (
 				D9863DA522600FA600F7C722 /* GameView.swift */,
-				D9863DB02260436100F7C722 /* PauseView.swift */,
+				D9F4F5432265327200B8AFD8 /* PauseView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -308,10 +308,10 @@
 				D9863DA42260000700F7C722 /* ExtensionUIView.swift in Sources */,
 				D9863D76225FEBBD00F7C722 /* ViewController.swift in Sources */,
 				D9863DA622600FA600F7C722 /* GameView.swift in Sources */,
-				D9863DB12260436100F7C722 /* PauseView.swift in Sources */,
 				D9863D74225FEBBD00F7C722 /* AppDelegate.swift in Sources */,
 				D9863DA8226016D500F7C722 /* GameViewController + ActionHandler.swift in Sources */,
 				D9863DAA22601BBA00F7C722 /* ExtensionUserDefault.swift in Sources */,
+				D9F4F5442265327200B8AFD8 /* PauseView.swift in Sources */,
 				D9863DAC226040A600F7C722 /* ExtensionViewController.swift in Sources */,
 				D9863DB3226045DC00F7C722 /* PauseViewController.swift in Sources */,
 			);
