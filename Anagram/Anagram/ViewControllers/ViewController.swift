@@ -51,6 +51,11 @@ class ViewController: UIViewController, UITextViewDelegate, UITextFieldDelegate 
     override func viewDidLayoutSubviews() {
         super.viewDidLayoutSubviews()
     }
+    
+    override func viewWillAppear(_ animated: Bool) {
+        super.viewWillAppear(animated)
+        gameView.viewIsAboutToAppear()
+    }
 }
 
 extension ViewController: GameViewProtocol {
