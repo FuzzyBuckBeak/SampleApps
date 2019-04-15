@@ -61,7 +61,7 @@
 		D9863DA7226016D500F7C722 /* GameViewController + ActionHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "GameViewController + ActionHandler.swift"; sourceTree = "<group>"; };
 		D9863DA922601BBA00F7C722 /* ExtensionUserDefault.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtensionUserDefault.swift; sourceTree = "<group>"; };
 		D9863DAB226040A600F7C722 /* ExtensionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtensionViewController.swift; sourceTree = "<group>"; };
-		D9863DB02260436100F7C722 /* PauseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PauseView.swift; sourceTree = "<group>"; };
+		D9863DB02260436100F7C722 /* PauseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = PauseView.swift; path = /Users/apo/Desktop/PersonalProjects/Learning/SampleApps/MasterFlag/MasterFlag/Views/PauseView.swift; sourceTree = "<absolute>"; };
 		D9863DB2226045DC00F7C722 /* PauseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PauseViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
