@@ -38,6 +38,7 @@ class GameView: UIView {
     @IBOutlet weak var validWordView: UIStackView!
     @IBOutlet weak var validWordViewHeightConstraints: NSLayoutConstraint!
     @IBOutlet weak var chosenWordLabel: UILabel!
+    @IBOutlet weak var infoButton: UIButton!
     
     func setupView() {
         inputTextField.returnKeyType = .done

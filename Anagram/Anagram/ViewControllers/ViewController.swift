@@ -22,6 +22,9 @@ class ViewController: UIViewController, UITextViewDelegate, UITextFieldDelegate 
 
     var timer = Timer()
     var duration: Int = 120
+    var isTimerRunning = false
+    
+    var chosenWord: String!
     
     var gameView: GameView! {
         guard isViewLoaded else { return nil }
@@ -55,13 +58,20 @@ class ViewController: UIViewController, UITextViewDelegate, UITextFieldDelegate 
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
         gameView.viewIsAboutToAppear()
+        timerAction(false)
+    }
+    
+    override func viewWillDisappear(_ animated: Bool) {
+        super.viewWillDisappear(animated)
+        gameView.viewIsAboutToDisapper()
+        timerAction(true)
     }
 }
 
 extension ViewController: GameViewProtocol {
     func infoTapped(_ sender: UIButton) {
-        if UIReferenceLibraryViewController.dictionaryHasDefinition(forTerm: "Home") {
-            let ref: UIReferenceLibraryViewController = UIReferenceLibraryViewController(term: "Home")
+        if let chosenWord = chosenWord {
+            let ref: UIReferenceLibraryViewController = UIReferenceLibraryViewController(term: chosenWord)
             self.present(ref, animated: true, completion: nil)
         }
     }
@@ -84,14 +94,14 @@ extension ViewController: GameViewProtocol {
             viewcontroller.view.backgroundColor = self.view.backgroundColor
             viewIsAboutToDisapper()
             addChild(child: viewcontroller)
-            timerPaused(true)
+            timerAction(true)
         }
     }
     
     func textFieldShouldReturn(_ textField: UITextField) -> Bool {
         if let textValue = textField.text,
            textValue.count > 0,
-           let mainWord = gameView.chosenWordLabel.text {
+           let mainWord = chosenWord {
            handoffToLogicController(subValue: textValue, mainValue: mainWord)
         }
         return false

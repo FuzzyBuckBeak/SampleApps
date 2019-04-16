@@ -16,17 +16,28 @@ enum WordType {
 
 extension ViewController {
     func startGame() {
-        gameView.chosenWordLabel.text = allWords.randomElement()?.uppercased()
+        if let word = allWords.randomElement()?.uppercased() {
+            chosenWord = word
+        }
+        gameView.chosenWordLabel.text = chosenWord
         gameView.scoreLabel.text = String(score)
         gameView.inputTextField.text = ""
         gameView.validWordTextView.text = ""
         gameView.timerLabel.text = "02:00"
         usedWords.removeAll(keepingCapacity: true)
+//        if UIReferenceLibraryViewController.dictionaryHasDefinition(forTerm: chosenWord) {
+//            gameView.isHidden = true
+//        } else {
+//            gameView.isHidden = false
+//        }
         startTimer()
     }
     
     func startTimer() {
-        timer = Timer.scheduledTimer(timeInterval: 1, target: self, selector: #selector(handleTimer), userInfo: nil, repeats: true)
+        if !isTimerRunning {
+            timer = Timer.scheduledTimer(timeInterval: 1, target: self, selector: #selector(handleTimer), userInfo: nil, repeats: true)
+            isTimerRunning = true
+        }
     }
     
     @objc func handleTimer() {
@@ -38,8 +49,9 @@ extension ViewController {
         }
     }
     
-    func timerPaused(_ isPaused: Bool) {
-        if isPaused {
+    func timerAction(_ pause: Bool) {
+        if pause {
+            isTimerRunning = false
             timer.invalidate()
         } else {
             startTimer()
@@ -48,6 +60,7 @@ extension ViewController {
 
     func restartGame() {
         timer.invalidate()
+        isTimerRunning = false
         duration = 120
         score = 0
         startGame()

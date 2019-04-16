@@ -34,7 +34,7 @@ class PauseViewController: UIViewController, PauseViewProtocol {
     func resumeTapped() {
         self.remove()
         parentcontroller?.viewIsAboutToAppear()
-        parentcontroller?.timerPaused(false)
+        parentcontroller?.timerAction(false)
     }
     
     func resetTapped() {
