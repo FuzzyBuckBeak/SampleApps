@@ -8,10 +8,11 @@
 
 import UIKit
 
-enum WordType {
-    case invalid
-    case duplicate
-    case impossible
+enum WordErrorType: String {
+    case invalid = "This is not a valid word"
+    case duplicate = "You have already created this word"
+    case impossible = "This Word is not possible from given word"
+    case short = "Length of word should be more than 2"
 }
 
 extension ViewController {
@@ -25,11 +26,6 @@ extension ViewController {
         gameView.validWordTextView.text = ""
         gameView.timerLabel.text = "02:00"
         usedWords.removeAll(keepingCapacity: true)
-//        if UIReferenceLibraryViewController.dictionaryHasDefinition(forTerm: chosenWord) {
-//            gameView.isHidden = true
-//        } else {
-//            gameView.isHidden = false
-//        }
         startTimer()
     }
     
@@ -66,13 +62,14 @@ extension ViewController {
         startGame()
     }
     
-    private func isValid(word: String, mainWord: String) -> WordType? {
+    private func isValid(word: String, mainWord: String) -> WordErrorType? {
         let mainWord = mainWord.lowercased()
         let subWord = word.lowercased()
         
-        guard isPossible(mainWord: mainWord, subWord: subWord) != false else { return WordType.impossible}
-        guard isOriginal(word: subWord) == false else { return WordType.duplicate }
-        guard isReal(word: word, mainWord: mainWord) != false else { return WordType.invalid }
+        guard isPossible(mainWord: mainWord, subWord: subWord) != false else { return WordErrorType.impossible}
+        guard isOriginal(word: subWord) == false else { return WordErrorType.duplicate }
+        guard isAcceptLength(word: subWord) != false else { return WordErrorType.short }
+        guard isReal(word: word, mainWord: mainWord) != false else { return WordErrorType.invalid }
         return nil
     }
     
@@ -91,10 +88,15 @@ extension ViewController {
 
     private func isReal(word: String, mainWord: String) -> Bool {
         if word == mainWord { return  false }
-        let checker = UITextChecker()
-        let range = NSRange(location: 0, length: word.utf16.count)
-        let value = checker.rangeOfMisspelledWord(in: word, range: range, startingAt: 0, wrap: false, language: "en").location
-        return value == NSNotFound ? true : false
+        return UIReferenceLibraryViewController.dictionaryHasDefinition(forTerm: word)
+//        let checker = UITextChecker()
+//        let range = NSRange(location: 0, length: word.utf16.count)
+//        let value = checker.rangeOfMisspelledWord(in: word, range: range, startingAt: 0, wrap: false, language: "en").location
+//        return value == NSNotFound ? true : false
+    }
+    
+    private func isAcceptLength(word: String) -> Bool {
+        return word.count > 2
     }
     
     func handoffToLogicController(subValue: String, mainValue: String) {
@@ -112,12 +114,13 @@ extension ViewController {
         score += value.count * 5
     }
     
-    private func handleFailureCase(type: WordType) {
+    private func handleFailureCase(type: WordErrorType) {
         gameView.inputTextField.shake()
         switch type {
-        case .invalid: score -= 5
-        case .impossible: score -= 10
-        default: return
+        case .invalid: score -= 5; showWarningLabel(WordErrorType.invalid.rawValue)
+        case .impossible: score -= 10; showWarningLabel(WordErrorType.impossible.rawValue)
+        case .short: showWarningLabel(WordErrorType.short.rawValue)
+        case .duplicate: showWarningLabel(WordErrorType.duplicate.rawValue)
         }
     }
 }

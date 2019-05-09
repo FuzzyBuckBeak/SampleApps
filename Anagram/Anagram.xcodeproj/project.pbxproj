@@ -15,6 +15,7 @@
 		D958025622634A68000DD72E /* UITextView + Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = D958025522634A68000DD72E /* UITextView + Extension.swift */; };
 		D958025822634AF8000DD72E /* ViewController + UserInterface.swift in Sources */ = {isa = PBXBuildFile; fileRef = D958025722634AF8000DD72E /* ViewController + UserInterface.swift */; };
 		D958025A22634BBB000DD72E /* ViewController + GameLogic.swift in Sources */ = {isa = PBXBuildFile; fileRef = D958025922634BBB000DD72E /* ViewController + GameLogic.swift */; };
+		D98D59EB22659D6E001282F4 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D98D59EA22659D6E001282F4 /* StoreKit.framework */; };
 		D9E8FE7D226352B700EEEC70 /* ExtensionUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9E8FE7C226352B700EEEC70 /* ExtensionUIView.swift */; };
 		D9E8FE802263562800EEEC70 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = D9E8FE7F2263562800EEEC70 /* start.txt */; };
 		D9F4F5142262796B00B8AFD8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9F4F5132262796B00B8AFD8 /* AppDelegate.swift */; };
@@ -53,6 +54,7 @@
 		D958025522634A68000DD72E /* UITextView + Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UITextView + Extension.swift"; sourceTree = "<group>"; };
 		D958025722634AF8000DD72E /* ViewController + UserInterface.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ViewController + UserInterface.swift"; sourceTree = "<group>"; };
 		D958025922634BBB000DD72E /* ViewController + GameLogic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ViewController + GameLogic.swift"; sourceTree = "<group>"; };
+		D98D59EA22659D6E001282F4 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
 		D9E8FE7C226352B700EEEC70 /* ExtensionUIView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExtensionUIView.swift; sourceTree = "<group>"; };
 		D9E8FE7F2263562800EEEC70 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 		D9F4F5102262796B00B8AFD8 /* Anagram.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Anagram.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -76,6 +78,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D98D59EB22659D6E001282F4 /* StoreKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -128,6 +131,14 @@
 			path = Views;
 			sourceTree = "<group>";
 		};
+		D98D59E722659CE1001282F4 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				D98D59EA22659D6E001282F4 /* StoreKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		D9F4F5072262796B00B8AFD8 = {
 			isa = PBXGroup;
 			children = (
@@ -135,6 +146,7 @@
 				D9F4F5272262796C00B8AFD8 /* AnagramTests */,
 				D9F4F5322262796C00B8AFD8 /* AnagramUITests */,
 				D9F4F5112262796B00B8AFD8 /* Products */,
+				D98D59E722659CE1001282F4 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -250,6 +262,11 @@
 				TargetAttributes = {
 					D9F4F50F2262796B00B8AFD8 = {
 						CreatedOnToolsVersion = 10.1;
+						SystemCapabilities = {
+							com.apple.InAppPurchase = {
+								enabled = 1;
+							};
+						};
 					};
 					D9F4F5232262796C00B8AFD8 = {
 						CreatedOnToolsVersion = 10.1;
@@ -501,13 +518,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 28ZLNUFKB2;
+				DEVELOPMENT_TEAM = FY6UXBE4A4;
 				INFOPLIST_FILE = Anagram/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = learn.Anagram;
+				PRODUCT_BUNDLE_IDENTIFIER = com.codemachinist.Wordcop;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -519,13 +537,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 28ZLNUFKB2;
+				DEVELOPMENT_TEAM = FY6UXBE4A4;
 				INFOPLIST_FILE = Anagram/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = learn.Anagram;
+				PRODUCT_BUNDLE_IDENTIFIER = com.codemachinist.Wordcop;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";

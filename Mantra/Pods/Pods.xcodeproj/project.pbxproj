@@ -1,0 +1,588 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		048B12892A074D784346978695DF8DED /* Pulley-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E3224A3CDD663F3C95D1AFE73FC24A2 /* Pulley-dummy.m */; };
+		156A4A5100020F4468BBA8B7BA14957C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D88AAE1F92055A60CC2FC970D7D34634 /* Foundation.framework */; };
+		3C7705B0F611A911534672978F2239F7 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B63C6A64CF66340668996F78DA6BB482 /* UIKit.framework */; };
+		6B0B402B130B57F9E36D6D5B6190BDB0 /* PulleyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E083E561156B1CC74496CC7F83390D6 /* PulleyViewController.swift */; };
+		857B08D967195969C509B6E6BFFD5593 /* UIViewController+PulleyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B3370910BFE4C843C0059A28000BE8F /* UIViewController+PulleyViewController.swift */; };
+		8BF975DA0A626AFDAE862A6529B87850 /* Pods-Mantra-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = CC0FC22DD5CD0255CE4F3ACDA7B0D333 /* Pods-Mantra-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9B4FADCDBCEDB2A45AD1CA34A53E1E7C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D88AAE1F92055A60CC2FC970D7D34634 /* Foundation.framework */; };
+		9B8B1064064FB30209478A19A0BCDCCC /* PulleyPassthroughScrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F431B0E5389C30955C139231ACF4FCD3 /* PulleyPassthroughScrollView.swift */; };
+		BB07B4BFB028798E8053BAA6D50C7FF9 /* UIView+constrainToParent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B0F2D4B53D9B3EBE2E00730518D29F0 /* UIView+constrainToParent.swift */; };
+		C71AB322C848AF02EFFE4E9ECEFC4F23 /* Pods-Mantra-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 98AD2CD5A163A4731396E6EB84843D27 /* Pods-Mantra-dummy.m */; };
+		F7CC6E30C05142727D84D1D78038EDE0 /* Pulley-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 34E836F2516A5D985A4B2B09CD3F8FED /* Pulley-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		5251D5105D12F16B8271B3705EFBFB12 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 0FFB0643F5FB91D2E26C9628CC2C7341;
+			remoteInfo = Pulley;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		00B83AAC4B8153C6F967A78D10538734 /* Pulley.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Pulley.xcconfig; sourceTree = "<group>"; };
+		23798B33A593084C2A30707C4DE7C539 /* Pulley.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = Pulley.modulemap; sourceTree = "<group>"; };
+		34E836F2516A5D985A4B2B09CD3F8FED /* Pulley-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pulley-umbrella.h"; sourceTree = "<group>"; };
+		4A9404742AB7EC7BF617F9202C73F44E /* Pods-Mantra-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Mantra-acknowledgements.markdown"; sourceTree = "<group>"; };
+		4E083E561156B1CC74496CC7F83390D6 /* PulleyViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PulleyViewController.swift; path = PulleyLib/PulleyViewController.swift; sourceTree = "<group>"; };
+		55A219B0DA3F7F5CB4757B538F140A76 /* Pods-Mantra-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Mantra-resources.sh"; sourceTree = "<group>"; };
+		6B0F2D4B53D9B3EBE2E00730518D29F0 /* UIView+constrainToParent.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIView+constrainToParent.swift"; path = "PulleyLib/UIView+constrainToParent.swift"; sourceTree = "<group>"; };
+		6B3370910BFE4C843C0059A28000BE8F /* UIViewController+PulleyViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIViewController+PulleyViewController.swift"; path = "PulleyLib/UIViewController+PulleyViewController.swift"; sourceTree = "<group>"; };
+		6E3224A3CDD663F3C95D1AFE73FC24A2 /* Pulley-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pulley-dummy.m"; sourceTree = "<group>"; };
+		76DD9869C7EB0F7C0922D30C842D30E9 /* Pods-Mantra.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Mantra.release.xcconfig"; sourceTree = "<group>"; };
+		7A481D89811BFF48036A5C6C53CD4A52 /* Pods-Mantra-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Mantra-frameworks.sh"; sourceTree = "<group>"; };
+		9236874C07BA7959C219C70B698163D1 /* Pods-Mantra.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-Mantra.modulemap"; sourceTree = "<group>"; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		98AD2CD5A163A4731396E6EB84843D27 /* Pods-Mantra-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Mantra-dummy.m"; sourceTree = "<group>"; };
+		B0C2CAC899046E46F5D7C77DFDC48370 /* Pulley-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pulley-prefix.pch"; sourceTree = "<group>"; };
+		B63C6A64CF66340668996F78DA6BB482 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
+		CC0FC22DD5CD0255CE4F3ACDA7B0D333 /* Pods-Mantra-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Mantra-umbrella.h"; sourceTree = "<group>"; };
+		D88AAE1F92055A60CC2FC970D7D34634 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		DC9E7136837C3483E14C7840D955EC5E /* Pods-Mantra.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Mantra.debug.xcconfig"; sourceTree = "<group>"; };
+		DCD3C8B658C5DF3FCAD392CB680E25E7 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E15CE232865D91CDE143B9715F5438F1 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E35AAAE2B0335829FEC087E142BBFF6A /* Pulley.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pulley.framework; path = Pulley.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		EE50476C06E16F155A702A10A86920B5 /* Pods-Mantra-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Mantra-acknowledgements.plist"; sourceTree = "<group>"; };
+		F431B0E5389C30955C139231ACF4FCD3 /* PulleyPassthroughScrollView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PulleyPassthroughScrollView.swift; path = PulleyLib/PulleyPassthroughScrollView.swift; sourceTree = "<group>"; };
+		FE5AD00E0F60488F6F1D28AB5A085C44 /* Pods_Mantra.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_Mantra.framework; path = "Pods-Mantra.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		46DE12ACAA2A4575923C42664F87DD77 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9B4FADCDBCEDB2A45AD1CA34A53E1E7C /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5F22C0074B56CFBF737448169F32E84A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				156A4A5100020F4468BBA8B7BA14957C /* Foundation.framework in Frameworks */,
+				3C7705B0F611A911534672978F2239F7 /* UIKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		433CD3331B6C3787F473C941B61FC68F /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				438B396F6B4147076630CAEFE34282C1 /* iOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		438B396F6B4147076630CAEFE34282C1 /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				D88AAE1F92055A60CC2FC970D7D34634 /* Foundation.framework */,
+				B63C6A64CF66340668996F78DA6BB482 /* UIKit.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
+		4890BE58F8D41EB0764CCED8862D7C79 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				C3D5084E6AD716F1D742797198099FA3 /* Pulley */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		6628110EE9B4FA665D53E5F6F85A5E17 /* Pods-Mantra */ = {
+			isa = PBXGroup;
+			children = (
+				DCD3C8B658C5DF3FCAD392CB680E25E7 /* Info.plist */,
+				9236874C07BA7959C219C70B698163D1 /* Pods-Mantra.modulemap */,
+				4A9404742AB7EC7BF617F9202C73F44E /* Pods-Mantra-acknowledgements.markdown */,
+				EE50476C06E16F155A702A10A86920B5 /* Pods-Mantra-acknowledgements.plist */,
+				98AD2CD5A163A4731396E6EB84843D27 /* Pods-Mantra-dummy.m */,
+				7A481D89811BFF48036A5C6C53CD4A52 /* Pods-Mantra-frameworks.sh */,
+				55A219B0DA3F7F5CB4757B538F140A76 /* Pods-Mantra-resources.sh */,
+				CC0FC22DD5CD0255CE4F3ACDA7B0D333 /* Pods-Mantra-umbrella.h */,
+				DC9E7136837C3483E14C7840D955EC5E /* Pods-Mantra.debug.xcconfig */,
+				76DD9869C7EB0F7C0922D30C842D30E9 /* Pods-Mantra.release.xcconfig */,
+			);
+			name = "Pods-Mantra";
+			path = "Target Support Files/Pods-Mantra";
+			sourceTree = "<group>";
+		};
+		7DB346D0F39D3F0E887471402A8071AB = {
+			isa = PBXGroup;
+			children = (
+				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
+				433CD3331B6C3787F473C941B61FC68F /* Frameworks */,
+				4890BE58F8D41EB0764CCED8862D7C79 /* Pods */,
+				E3EEC20E1AAC3149E4C9409869707913 /* Products */,
+				C573D096BBDCFF423608318339A6A505 /* Targets Support Files */,
+			);
+			sourceTree = "<group>";
+		};
+		8BD740388B8B7133E712DB79BA0FBA46 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				E15CE232865D91CDE143B9715F5438F1 /* Info.plist */,
+				23798B33A593084C2A30707C4DE7C539 /* Pulley.modulemap */,
+				00B83AAC4B8153C6F967A78D10538734 /* Pulley.xcconfig */,
+				6E3224A3CDD663F3C95D1AFE73FC24A2 /* Pulley-dummy.m */,
+				B0C2CAC899046E46F5D7C77DFDC48370 /* Pulley-prefix.pch */,
+				34E836F2516A5D985A4B2B09CD3F8FED /* Pulley-umbrella.h */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/Pulley";
+			sourceTree = "<group>";
+		};
+		C3D5084E6AD716F1D742797198099FA3 /* Pulley */ = {
+			isa = PBXGroup;
+			children = (
+				F431B0E5389C30955C139231ACF4FCD3 /* PulleyPassthroughScrollView.swift */,
+				4E083E561156B1CC74496CC7F83390D6 /* PulleyViewController.swift */,
+				6B0F2D4B53D9B3EBE2E00730518D29F0 /* UIView+constrainToParent.swift */,
+				6B3370910BFE4C843C0059A28000BE8F /* UIViewController+PulleyViewController.swift */,
+				8BD740388B8B7133E712DB79BA0FBA46 /* Support Files */,
+			);
+			name = Pulley;
+			path = Pulley;
+			sourceTree = "<group>";
+		};
+		C573D096BBDCFF423608318339A6A505 /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				6628110EE9B4FA665D53E5F6F85A5E17 /* Pods-Mantra */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		E3EEC20E1AAC3149E4C9409869707913 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				FE5AD00E0F60488F6F1D28AB5A085C44 /* Pods_Mantra.framework */,
+				E35AAAE2B0335829FEC087E142BBFF6A /* Pulley.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		6AB697489BCF833EBC997C0F546DCBA0 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F7CC6E30C05142727D84D1D78038EDE0 /* Pulley-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		ABC73B8F8903627AF9A6315848DFF4D4 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8BF975DA0A626AFDAE862A6529B87850 /* Pods-Mantra-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		0FFB0643F5FB91D2E26C9628CC2C7341 /* Pulley */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1084F51CB22EDCE2F4DCF374B783EF92 /* Build configuration list for PBXNativeTarget "Pulley" */;
+			buildPhases = (
+				4F8A9F5C6C7BB5E8F8B989E0279C2721 /* Sources */,
+				5F22C0074B56CFBF737448169F32E84A /* Frameworks */,
+				6AB697489BCF833EBC997C0F546DCBA0 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Pulley;
+			productName = Pulley;
+			productReference = E35AAAE2B0335829FEC087E142BBFF6A /* Pulley.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		2F65BAC2E85EC3AE5DD32B7B9840836F /* Pods-Mantra */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D63377B00B0D45A6B6C45E73B26E993A /* Build configuration list for PBXNativeTarget "Pods-Mantra" */;
+			buildPhases = (
+				A6117EB37E1E6DB2F2609A73FEE27314 /* Sources */,
+				46DE12ACAA2A4575923C42664F87DD77 /* Frameworks */,
+				ABC73B8F8903627AF9A6315848DFF4D4 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				6AD8ED173A9F824167A0EC4AA0816C9C /* PBXTargetDependency */,
+			);
+			name = "Pods-Mantra";
+			productName = "Pods-Mantra";
+			productReference = FE5AD00E0F60488F6F1D28AB5A085C44 /* Pods_Mantra.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D41D8CD98F00B204E9800998ECF8427E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0930;
+				LastUpgradeCheck = 0930;
+			};
+			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
+			productRefGroup = E3EEC20E1AAC3149E4C9409869707913 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				2F65BAC2E85EC3AE5DD32B7B9840836F /* Pods-Mantra */,
+				0FFB0643F5FB91D2E26C9628CC2C7341 /* Pulley */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		4F8A9F5C6C7BB5E8F8B989E0279C2721 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				048B12892A074D784346978695DF8DED /* Pulley-dummy.m in Sources */,
+				9B8B1064064FB30209478A19A0BCDCCC /* PulleyPassthroughScrollView.swift in Sources */,
+				6B0B402B130B57F9E36D6D5B6190BDB0 /* PulleyViewController.swift in Sources */,
+				BB07B4BFB028798E8053BAA6D50C7FF9 /* UIView+constrainToParent.swift in Sources */,
+				857B08D967195969C509B6E6BFFD5593 /* UIViewController+PulleyViewController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A6117EB37E1E6DB2F2609A73FEE27314 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C71AB322C848AF02EFFE4E9ECEFC4F23 /* Pods-Mantra-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		6AD8ED173A9F824167A0EC4AA0816C9C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = Pulley;
+			target = 0FFB0643F5FB91D2E26C9628CC2C7341 /* Pulley */;
+			targetProxy = 5251D5105D12F16B8271B3705EFBFB12 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		61C66B160B52166A179F904FDD4AE367 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 00B83AAC4B8153C6F967A78D10538734 /* Pulley.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/Pulley/Pulley-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/Pulley/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/Pulley/Pulley.modulemap";
+				PRODUCT_MODULE_NAME = Pulley;
+				PRODUCT_NAME = Pulley;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		65F0986BADDEA0BBBF91948DC8DFC5E8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = DC9E7136837C3483E14C7840D955EC5E /* Pods-Mantra.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-Mantra/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-Mantra/Pods-Mantra.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		70D2B781BAE7C057831F9AE5616B7BC1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 00B83AAC4B8153C6F967A78D10538734 /* Pulley.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/Pulley/Pulley-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/Pulley/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/Pulley/Pulley.modulemap";
+				PRODUCT_MODULE_NAME = Pulley;
+				PRODUCT_NAME = Pulley;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		E49E2A573A018904A49B9D47FC26DF3A /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 76DD9869C7EB0F7C0922D30C842D30E9 /* Pods-Mantra.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-Mantra/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-Mantra/Pods-Mantra.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		FA39F93BCC98288C75B07575327D1A76 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_ALLOWED = NO;
+				CODE_SIGNING_REQUIRED = NO;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_RELEASE=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Release;
+		};
+		FEB52B20EEB50135A85E1727D4046F94 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_ALLOWED = NO;
+				CODE_SIGNING_REQUIRED = NO;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_DEBUG=1",
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1084F51CB22EDCE2F4DCF374B783EF92 /* Build configuration list for PBXNativeTarget "Pulley" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				70D2B781BAE7C057831F9AE5616B7BC1 /* Debug */,
+				61C66B160B52166A179F904FDD4AE367 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FEB52B20EEB50135A85E1727D4046F94 /* Debug */,
+				FA39F93BCC98288C75B07575327D1A76 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D63377B00B0D45A6B6C45E73B26E993A /* Build configuration list for PBXNativeTarget "Pods-Mantra" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				65F0986BADDEA0BBBF91948DC8DFC5E8 /* Debug */,
+				E49E2A573A018904A49B9D47FC26DF3A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+}

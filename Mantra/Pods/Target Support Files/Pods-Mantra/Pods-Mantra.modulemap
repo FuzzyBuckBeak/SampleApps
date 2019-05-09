@@ -1,0 +1,6 @@
+framework module Pods_Mantra {
+  umbrella header "Pods-Mantra-umbrella.h"
+
+  export *
+  module * { export * }
+}

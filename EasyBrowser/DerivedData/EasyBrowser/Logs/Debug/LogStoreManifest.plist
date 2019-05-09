@@ -3,38 +3,8 @@
 <plist version="1.0">
 <dict>
 	<key>logFormatVersion</key>
-	<integer>9</integer>
+	<integer>10</integer>
 	<key>logs</key>
-	<dict>
-		<key>1213FEB4-1042-4087-9764-2E806DB9CDD6</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>1213FEB4-1042-4087-9764-2E806DB9CDD6.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>S</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>EasyBrowser project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>EasyBrowser</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Debug EasyBrowser</string>
-			<key>timeStartedRecording</key>
-			<real>576614663.80902803</real>
-			<key>timeStoppedRecording</key>
-			<real>576614818.80405104</real>
-			<key>title</key>
-			<string>Debug EasyBrowser</string>
-			<key>uniqueIdentifier</key>
-			<string>1213FEB4-1042-4087-9764-2E806DB9CDD6</string>
-		</dict>
-	</dict>
+	<dict/>
 </dict>
 </plist>

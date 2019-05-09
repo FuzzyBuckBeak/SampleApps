@@ -13,7 +13,7 @@ extension ViewController {
         print(gameView.validWordTextView.contentSize.height)
         print(gameView.validWordView.frame.height)
         gameView.validWordTextView.text = gameView.validWordTextView.text + "\n" + value
-        if gameView.validWordTextView.contentSize.height < gameView.validWordView.frame.height  {
+        if gameView.validWordTextView.contentSize.height < gameView.validWordView.frame.height - gameView.warningLabel.frame.height {
             gameView.validWordViewHeightConstraints.constant = gameView.validWordTextView.contentSize.height
         }
         gameView.validWordTextView.scrollTextViewToBottom()
@@ -23,6 +23,10 @@ extension ViewController {
         gameView.scoreLabel.fadeValue(value: String(score))
     }
     
+    func showWarningLabel(_ value: String) {
+        gameView.warningLabel.text = value
+        gameView.warningLabel.showViewWithAlphaAnimation()
+    }
     
     @objc func updateTimerUI(_ duration: Int) {
         let (minutes, seconds) = ((duration % 3600) / 60, (duration % 3600) % 60)

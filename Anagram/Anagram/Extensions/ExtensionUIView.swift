@@ -26,6 +26,16 @@ extension UIView {
         animation.values = [-15.0, 13.0, -10.0, 5, 0]
         layer.add(animation, forKey: "shake")
     }
+    
+    func showViewWithAlphaAnimation() {
+        UIView.animate(withDuration: 2.0, animations: { [weak self] in
+            self?.alpha = 1
+        }) { value in
+            UIView.animate(withDuration: 1.0, animations: { [weak self] in
+                self?.alpha = 0
+            })
+        }
+    }
 }
 
 extension UILabel {

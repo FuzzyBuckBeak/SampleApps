@@ -1,0 +1,3711 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Andorra</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Albania</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Ti Shqipëri, më jep nder, më jep emrin Shqipëtar (You Albania, give me honour, give me the name Albanian)</string>
+		<key>capital</key>
+		<string>Tirana</string>
+		<key>anthem</key>
+		<string>Albanian National Anthem</string>
+		<key>language</key>
+		<string>Albanian</string>
+		<key>currency</key>
+		<string>Albanian lek (ALL), since 1926</string>
+		<key>borders</key>
+		<string>Greece, Kosovo, Macedonia, Montenegro</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 3</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 4</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 5</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 6</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 7</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 8</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 9</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 10</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 11</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 12</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 13</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 14</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 15</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 16</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 17</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 18</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 19</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 20</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 21</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 22</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 23</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 24</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 25</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 26</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 27</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 28</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 29</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 30</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 31</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 32</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 33</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 34</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 35</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 36</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 37</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 38</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 39</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 40</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 41</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 42</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 43</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 44</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 45</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 46</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 47</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 48</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 49</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 50</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 51</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 52</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 53</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 54</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 55</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 56</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 57</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 58</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 59</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 60</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 61</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 62</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 63</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 64</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 65</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 66</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 67</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 68</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 69</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 70</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 71</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 72</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 73</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 74</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 75</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 76</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 77</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 78</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 79</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 80</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 81</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 82</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 83</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 84</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 85</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 86</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 87</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 88</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 89</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 90</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 91</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 92</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 93</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 94</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 95</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 96</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 97</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 98</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 99</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 100</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 101</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 102</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 103</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 104</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 105</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 106</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 107</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 108</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 109</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 110</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 111</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 112</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 113</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 114</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 115</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 116</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 117</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 118</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 119</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 120</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 121</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 122</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 123</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 124</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 125</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 126</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 127</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 128</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 129</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 130</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 131</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 132</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 133</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 134</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 135</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 136</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 137</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 138</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 139</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 140</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 141</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 142</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 143</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 144</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 145</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 146</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 147</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 148</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 149</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 150</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 151</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 152</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 153</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 154</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 155</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 156</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 157</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 158</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 159</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 160</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 161</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 162</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 163</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 164</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 165</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 166</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 167</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 168</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 169</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 170</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 171</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 172</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 173</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 174</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 175</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 176</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 177</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 178</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 179</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 180</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 181</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 182</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 183</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 184</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 185</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 186</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 187</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 188</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 189</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 190</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 191</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 192</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 193</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 194</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+	<key>Andorra - 195</key>
+	<dict>
+		<key>flag</key>
+		<string>ad.png</string>
+		<key>motto</key>
+		<string>Virtus Unita Fortior (United virtue is stronger)</string>
+		<key>capital</key>
+		<string>Andorra la Vella</string>
+		<key>anthem</key>
+		<string>El Gran Carlemany (The Great Charlemagne)</string>
+		<key>language</key>
+		<string>Catalan</string>
+		<key>currency</key>
+		<string>Euro (EUR), since 1999</string>
+		<key>borders</key>
+		<string>France, Spain</string>
+		<key>link</key>
+		<string>https://en.wikipedia.org/wiki/Andorra</string>
+	</dict>
+</dict>
+</plist>
